@@ -7,7 +7,7 @@ authors:
 - admin
 - Li Feng
 authors_notes:
-- "student supervised"
+- ""
 - "corresponding author"
 - ""
 publication_types: ["2"]

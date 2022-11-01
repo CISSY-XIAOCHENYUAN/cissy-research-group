@@ -17,9 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Supervisor
-    - Phd students at MPU
-    - Master students at MPU
-    - Undergraduate students at MPU
+    - Phd students
+    - Master students
+    - Undergraduate students
     - Grad Students
 
 design:

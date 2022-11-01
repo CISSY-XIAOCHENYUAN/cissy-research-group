@@ -9,7 +9,7 @@ authors:
 - Zhiyuan Pei
 - Xiaobin Zheng
 author_notes:
-- "student supervised"
+- ""
 - "corresponding author"
 - ""
 - ""

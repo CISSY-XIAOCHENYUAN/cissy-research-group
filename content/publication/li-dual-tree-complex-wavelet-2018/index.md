@@ -7,7 +7,7 @@ authors:
 - admin
 - Jianqing Li
 author_notes:
-- "student supervised"
+- ""
 - "corresponding author"
 - ""
 publication_types: ["2"]
