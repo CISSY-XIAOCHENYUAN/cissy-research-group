@@ -6,7 +6,7 @@ role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
 superuser: true
 
-bio: "Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. Her current research topic is image tamper detection based on deep learning."
+bio: "Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. Her current research topic is image tamper detection based on deep learning.
 education:
   courses:
     - course: Msc in Computer Information System
@@ -35,3 +35,4 @@ user_groups:
 ---
 
 
+Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. Her current research topic is image tamper detection based on deep learning.
