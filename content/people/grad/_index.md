@@ -2,6 +2,7 @@
 title: 📖️ Teaching Course
 date: 2022-09-24
 toc: false
+weight: 30
 
 image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
