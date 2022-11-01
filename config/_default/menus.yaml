@@ -16,7 +16,7 @@ main:
     weight: 10
     parent: people
   - name: graduates
-    PageRef: people/graduates/people.md
+    PageRef: people/graduates/index.md
     weight: 20
     parent: people
   - name: Publications
