@@ -6,23 +6,22 @@ avatar_filename: avatar.jpg
 interests:
   - Image tamper detection and self-recovery
 big news:
+nnn
+education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: Msc in Computer Information System
+      institution: Macau University of Science and Technology
+      year: 2020
+    - course: BSc in Communication Engineering
+      institution: Communication University of Zhejiang
+      year: 2018
 
 organizations:
   - name: Faculty of Applied Sciences
   - name: Macao Polytechnic University 
     url: 'https://www.mpu.edu.mo/en/index.php'
 
-email: 1809853nii20001@student.must.edu.mo
+email: p2209360@student.mpu.edu.mo
 
 user_groups:
   - Phd students
