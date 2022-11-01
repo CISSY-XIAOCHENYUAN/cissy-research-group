@@ -47,5 +47,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Phd students at MPU
+
 ---
+Tong Liu is a master of Computer Information System at Macau University of Science and Technology. Her research interests include deep learning, CV, watermarking, image tamper detection and self-recovery.
 
