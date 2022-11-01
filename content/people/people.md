@@ -16,16 +16,14 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Supervisor
-    - Phd students at MPU
-    - Master students at MPU
-    - Undergraduate students at MPU
+    - Principal Investigators
+    - Researchers
     - Grad Students
-
+    - Administration
+    - Visitors
+    - Alumni
 design:
-  show_interests: true
+  show_interests: false
   show_role: true
-  show_social: false
-  show_organizations: false
-
+  show_social: true
 ---
