@@ -2,12 +2,13 @@
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
+toc: false
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 80
+weight: 20
 
 title: Meet the Team
 subtitle:
