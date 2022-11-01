@@ -4,7 +4,7 @@
 widget: people
 
 # This file represents a page section.
-headless: false
+headless: ture
 
 # Order that this section appears on the page.
 weight: 68
