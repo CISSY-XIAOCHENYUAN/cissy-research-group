@@ -2,6 +2,7 @@
 title: Tong Liu
 role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
+superuser: true
 
 
 education:
