@@ -3,7 +3,7 @@ title: "Blind Dual Watermarking Scheme Using Stucki Kernel and SPIHT for Image S
 date: 2022-01-01
 publishDate: 2022-10-28T07:49:33.669579Z
 authors:
-- Qiyuan Zhang
+- mpu-QiyuanZhang
 - admin
 - mpu-TongLiu
 author_notes:
