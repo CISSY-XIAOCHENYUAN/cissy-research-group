@@ -3,8 +3,6 @@ title: Tong Liu
 role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
 
-interests:
-  - Image tamper detection and self-recovery
 
 education:
   courses:
@@ -14,6 +12,10 @@ education:
     - course: BSc in Communication Engineering
       institution: Communication University of Zhejiang
       year: 2018
+
+interests:
+  - Images Forensics
+
 
 organizations:
   - name: Faculty of Applied Sciences
@@ -25,5 +27,5 @@ email: p2209360@student.mpu.edu.mo
 user_groups:
   - Phd students
 ---
-Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University
+Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. Her current research topic is image tamper detection based on deep learning.
 
