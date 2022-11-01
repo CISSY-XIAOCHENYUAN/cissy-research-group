@@ -1,53 +1,43 @@
 ---
-# Display name
 title: Tong Liu
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Phd student (2022.8 - Present)
+role: 间歇性乐观患者
 avatar_filename: avatar.jpg
-
-
-# Organizations/Affiliations
-organizations:
-  - name: Faculty of Applied Sciences
-  - name: Macao Polytechnic University 
-    url: 'https://www.mpu.edu.mo/en/index.php'
-  
-
-# Short bio (displayed in user profile at end of posts)
-bio:
+bio: My research interests include deep learning, CV, watermarking, image tamper
+  detection and self-recovery.
 interests:
-  - Deep learning
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Artificial Intelligence
+  - Image processing
+  - Multimedia technology
+  - Image tamper detection and self-recovery
+big news:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 social:
-   - icon: google-scholar
-     icon_pack: ai
-     link: https://scholar.google.com/citations?user=PS86g9cAAAAJ&hl=zh-CN
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'xcyuan@mpu.edu.mo'
-
-# Highlight the author in author lists? (true/false)
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5uSEDc9QntoMs8h3Cig71o-FniYEVVlUAGOzKAWE6gtLSYtqDuMF_R-n9GQxGStNkAizv0I51ZHNebYya1s9-lcc1hfz2y_sv8NTQdJaCuQnnmUn8&user=PS86g9cAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/maodou1203
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/maodou1203/
+organizations:
+  - name: Macau University of Science and Technology
+    url: https://www.must.edu.mo/
+email: 1809853nii20001@student.must.edu.mo
+superuser: true
 highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Phd students at MPU
-
 ---
 Tong Liu is a master of Computer Information System at Macau University of Science and Technology. Her research interests include deep learning, CV, watermarking, image tamper detection and self-recovery.
 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
