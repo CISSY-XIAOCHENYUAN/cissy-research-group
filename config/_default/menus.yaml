@@ -9,7 +9,16 @@ main:
     weight: 10
   - name: People
     url: people
+    identifier: people
     weight: 20
+  - name: current people
+    PageRef: people/current-people/people.md
+    weight: 10
+    parent: people
+  - name: graduates
+    PageRef: people/graduates/people.md
+    weight: 20
+    parent: people
   - name: Publications
     url: publication
     weight: 30
