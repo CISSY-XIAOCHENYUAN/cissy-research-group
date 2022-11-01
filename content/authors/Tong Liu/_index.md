@@ -18,9 +18,14 @@ big news:
     year: 2008
 
 organizations:
-  - name: Macau University of Science and Technology
-    url: https://www.must.edu.mo/
+  - name: Faculty of Applied Sciences
+  - name: Macao Polytechnic University 
+    url: 'https://www.mpu.edu.mo/en/index.php'
+
 email: 1809853nii20001@student.must.edu.mo
+
+user_groups:
+  - Phd students
 ---
 Tong Liu is a master of Computer Information System at Macau University of Science and Technology. Her research interests include deep learning, CV, watermarking, image tamper detection and self-recovery.
 
