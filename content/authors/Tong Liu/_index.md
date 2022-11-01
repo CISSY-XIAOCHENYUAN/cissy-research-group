@@ -5,8 +5,7 @@ avatar_filename: avatar.jpg
 
 interests:
   - Image tamper detection and self-recovery
-big news:
-nnn
+
 education:
   courses:
     - course: Msc in Computer Information System
@@ -26,6 +25,5 @@ email: p2209360@student.mpu.edu.mo
 user_groups:
   - Phd students
 ---
-Tong Liu is a master of Computer Information System at Macau University of Science and Technology. Her research interests include deep learning, CV, watermarking, image tamper detection and self-recovery.
-
+Tong Liu is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University
 

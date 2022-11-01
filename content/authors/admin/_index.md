@@ -63,4 +63,4 @@ user_groups:
   - Supervisor
 ---
 
-She is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. 
+She is currently an Associate Professor with the Faculty of Applied Sciences of the Macao Polytechnic University. Her research interests include Digital Multimedia Processing, Digital Watermarking, Multimedia Forensics, Tampering Detection and Self-Recovery, Remote Image Processing, and Deep Learning Techniques and Applications.
