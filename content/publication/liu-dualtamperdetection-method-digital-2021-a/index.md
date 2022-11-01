@@ -3,7 +3,7 @@ title: "A dual-tamper-detection method for digital image authentication and cont
 date: 2021-01-01
 publishDate: 2022-10-28T07:49:33.682060Z
 authors:
-- Tong Liu
+- mpu-TongLiu
 - admin
 author_notes:
 - ""
