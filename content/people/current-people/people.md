@@ -20,7 +20,7 @@ content:
     - Phd students
     - Master students
     - Undergraduate students
-    - Grad Students
+    
 
 design:
   show_interests: true
