@@ -6,7 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 active: true
 headless: true # This file represents a page section.
-weight: 20 # Order that this section will appear.
+weight: 100 # Order that this section will appear.
 title: |
   Dr.Xiaochen Yuan
 hero_media: welcome.jpg
