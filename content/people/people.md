@@ -2,13 +2,12 @@
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
-toc: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 68
 
 title: Meet the Team
 subtitle:
@@ -18,9 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Supervisor
-    - Phd students
-    - Master students
-    - Undergraduate students
+    - Phd students at MPU
+    - Master students at MPU
+    - Undergraduate students at MPU
     - Grad Students
 
 design:
