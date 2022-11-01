@@ -26,7 +26,7 @@ organizations:
 
 email: p2209360@student.mpu.edu.mo
 
-highlight_name: true
+highlight_name: false
 
 
 user_groups:
