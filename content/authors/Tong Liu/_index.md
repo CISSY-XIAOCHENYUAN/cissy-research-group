@@ -1,10 +1,11 @@
 ---
 title: Tong Liu
+first_name: Tong
+last_name: Liu
 role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
 superuser: true
-first_name: Tong
-last_name: Liu
+
 
 education:
   courses:
@@ -25,6 +26,9 @@ organizations:
     url: 'https://www.mpu.edu.mo/en/index.php'
 
 email: p2209360@student.mpu.edu.mo
+
+highlight_name: true
+
 
 user_groups:
   - Phd students
