@@ -3,7 +3,7 @@ title: "Adaptive Feature Calculation and Diagonal Mapping for Successive Recover
 date: 2021-07-01
 publishDate: 2022-10-28T07:49:33.682940Z
 authors:
-- Tong Liu
+- mpu-TongLiu
 - admin
 author_notes:
 - ""
