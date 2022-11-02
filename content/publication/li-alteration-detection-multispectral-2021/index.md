@@ -3,7 +3,7 @@ title: "Alteration Detection of Multispectral/Hyperspectral Images Using Dual-Pa
 date: 2021-01-01
 publishDate: 2022-10-28T07:49:33.677665Z
 authors:
-- Jinlong Li
+- admin-JinlongLi
 - admin
 - Li Feng
 authors_notes:

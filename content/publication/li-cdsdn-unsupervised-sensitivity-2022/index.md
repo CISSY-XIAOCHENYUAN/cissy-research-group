@@ -3,7 +3,7 @@ title: "CD-SDN: Unsupervised Sensitivity Disparity Networks for Hyper-Spectral I
 date: 2022-01-01
 publishDate: 2022-10-28T07:49:33.668679Z
 authors: 
-- Jinlong Li
+- admin-JinlongLi
 - admin
 - Jinfeng Li
 - Guoheng Huang
