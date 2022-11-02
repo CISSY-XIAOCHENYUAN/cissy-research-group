@@ -26,7 +26,6 @@ content:
   directions: Office A313, Chi Un Building
   office_hours:
     - ''
-  appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
