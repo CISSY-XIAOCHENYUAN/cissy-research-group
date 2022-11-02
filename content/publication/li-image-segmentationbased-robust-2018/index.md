@@ -3,6 +3,10 @@ title: "Image segmentation-based robust feature extraction for color image water
 date: 2018-01-01
 publishDate: 2022-11-01T13:07:56.849827Z
 authors: ["admin-MianjieLi", "Zeyu Deng", "admin"]
+author_notes:
+- ""
+- ""
+- "corresponding author"
 publication_types: ["1"]
 abstract: ""
 featured: false
