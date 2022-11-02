@@ -3,7 +3,7 @@ title: "Triple-Classification of Respiratory Sounds Using Optimized S-Transform 
 date: 2019-01-01
 publishDate: 2022-10-28T07:49:33.688912Z
 authors:
-- Hai Chen
+- admin-HaiChen
 - admin
 - Zhiyuan Pei
 - admin-MianjieLi

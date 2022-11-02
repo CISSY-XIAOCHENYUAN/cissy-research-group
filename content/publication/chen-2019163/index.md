@@ -3,7 +3,7 @@ title: "Automatic multi-level in-exhale segmentation and enhanced generalized S-
 date: 2019-01-01
 publishDate: 2022-10-28T07:49:33.688126Z
 authors:
-- Hai Chen
+- admin-HaiChen
 - admin
 - Jianqing Li
 - Zhiyuan Pei
