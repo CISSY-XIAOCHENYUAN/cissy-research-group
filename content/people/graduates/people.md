@@ -18,7 +18,6 @@ content:
   user_groups:
     - PhD graduates
     - Master graduates
-    - Undergraduate graduates
 
 
 design:
