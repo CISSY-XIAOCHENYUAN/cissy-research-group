@@ -17,7 +17,8 @@ education:
 
 interests:
   - Images Forensics
-  - Fragile watermarking
+  - Fragile Watermarking
+  - Deep Learning
 
 organizations:
   - name: Faculty of Applied Sciences
