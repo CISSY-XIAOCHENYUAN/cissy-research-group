@@ -37,7 +37,7 @@ content:
     longitude: '113.5518'
   directions: Office A313, Chi Un Building
   office_hours:
-    - 'Monday to Friday 10:00 to 18:00'
+    - ''
   # appointment_url: 'https://calendly.com'
   # contact_links:
     - icon: twitter
