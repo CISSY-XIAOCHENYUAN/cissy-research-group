@@ -3,7 +3,7 @@ title: "Dual-Tree Complex Wavelet Transform Based Audio Watermarking Using Disto
 date: 2018-01-01
 publishDate: 2022-10-28T07:49:33.690747Z
 authors: 
-- Mianjie Li
+- admin-MianjieLi
 - admin
 - Jianqing Li
 author_notes:

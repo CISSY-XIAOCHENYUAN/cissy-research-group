@@ -3,7 +3,7 @@ title: "Adaptive segmentation-based feature extraction and S-STDM watermarking m
 date: 2020-01-01
 publishDate: 2022-10-28T07:49:33.685768Z
 authors: 
-- Mianjie Li
+- admin-MianjieLi
 - admin
 authors_notes:
 - ""

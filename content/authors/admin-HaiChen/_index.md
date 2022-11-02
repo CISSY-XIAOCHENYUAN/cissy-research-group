@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Mianjie Li
+title: Hai Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Phd student (2017.9 - 2020.6)
+role: Phd student (2016.4 – 2019.6)
 avatar_filename: avatar.jpg
   
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Research on Robust Watermarking Method Based on Local Features
-
+  - Wheezing Detection and Analysis using Machine Learning Technologies
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

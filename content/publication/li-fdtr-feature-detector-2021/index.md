@@ -3,7 +3,7 @@ title: "FD-TR: feature detector based on scale invariant feature transform and b
 date: 2021-01-01
 publishDate: 2022-10-28T07:49:33.681324Z
 authors: 
-- Mianjie Li
+- admin-MianjieLi
 - admin
 author_notes:
 - ""

@@ -3,7 +3,7 @@ title: "Quaternion Discrete Fourier Transform-Based Color Image Watermarking Met
 date: 2020-01-01
 publishDate: 2022-10-28T07:49:33.686568Z
 authors: 
-- Mianjie Li
+- admin-MianjieLi
 - admin
 - Hai Chen
 - Jianqing Li
