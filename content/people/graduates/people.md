@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Graduates Student
+title: Graduated Student
 subtitle:
 
 content:
