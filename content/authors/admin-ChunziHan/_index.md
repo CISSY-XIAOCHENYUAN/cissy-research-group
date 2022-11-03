@@ -13,7 +13,7 @@ avatar_filename: avatar.jpg
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Automatic Chord Estimation from Audio: Study on Music Score Extraction in A Certain Range of Voice
+  - An Image Watermarking Algorithm with Adaptive Embedding Strength
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
