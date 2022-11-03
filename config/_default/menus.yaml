@@ -11,11 +11,11 @@ main:
     url: people
     identifier: people
     weight: 20
-  - name: Current People
+  - name: current people
     PageRef: people/current-people/index.md
     weight: 10
     parent: people
-  - name: Graduated Students
+  - name: graduates
     PageRef: people/graduates/index.md
     weight: 20
     parent: people

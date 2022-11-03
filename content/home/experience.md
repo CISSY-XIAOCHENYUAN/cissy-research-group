@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.mpu.edu.mo/zh/index.php'
     company_logo: org-mpu
     location: Macau
-    date_start: '2021-08-19'
+    date_start: '2021-08-01'
     date_end: ''
 
   - title: Assistant Professor & Associate Professor
@@ -35,24 +35,17 @@ experience:
     company_url: 'https://www.must.edu.mo/en'
     company_logo: org-must
     location: Macau
-    date_start: '2016-01-11'
+    date_start: '2015-09-01'
     date_end: '2021-07-31'
 
-  - title: Postdoctoral Fellowship
+  - title: Postdoctoral fellow
     company: University of Macau
     company_url: 'https://www.um.edu.mo/'
     company_logo: org-um
     location: Macau
-    date_start: '2014-02-01'
-    date_end: '2015-10-31'
-    
-  - title: Research Assistant
-    company: University of Macau
-    company_url: 'https://www.um.edu.mo/'
-    company_logo: org-um
-    location: Macau
-    date_start: '2013-11-01'
-    date_end: '2014-01-31'
+    date_start: '2014-09-01'
+    date_end: '2015-08-01'
+
 
 
 design:
