@@ -2,12 +2,18 @@
 # Display name
 title: Zhiyao Xie
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Phd student (since 2022.8)
+=======
+first_name: Zhiyao
+last_name: Xie
+role: Phd student (2022.9 - Present)
+>>>>>>> 899cfe5d60a7d30d69c02d68f67115d50608df5d
 =======
 first_name: Zhiyao
 last_name: Xie
