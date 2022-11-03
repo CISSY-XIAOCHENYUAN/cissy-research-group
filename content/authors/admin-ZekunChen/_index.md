@@ -6,7 +6,7 @@ title: Zekun Chen
 superuser: true
 
 # Role/position
-role: Master student (2016.9 – 2018.7)
+role: Master student (2018.7)
 avatar_filename: avatar.jpg
   
 

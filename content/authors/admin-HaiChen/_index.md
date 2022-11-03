@@ -6,7 +6,7 @@ title: Hai Chen
 superuser: true
 
 # Role/position
-role: Phd student (2016.4 – 2019.6)
+role: Phd student (2019.6)
 avatar_filename: avatar.jpg
   
 

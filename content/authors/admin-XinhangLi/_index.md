@@ -6,7 +6,7 @@ title: Xinhang Li
 superuser: true
 
 # Role/position
-role: Master student (2017.9 – 2019.8)
+role: Master student (2019.8)
 avatar_filename: avatar.jpg
   
 
