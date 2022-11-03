@@ -3,7 +3,7 @@
 title: Zhiyao Xie
 first_name: Zhiyao
 last_name: Xie
-role: Phd student (2022.9 - Present)
+role: Phd student (since 2022.9)
 avatar_filename: avatar.jpg
 superuser: false
 
