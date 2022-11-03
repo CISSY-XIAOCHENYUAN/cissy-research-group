@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lixuan Hao
+title: Ruohan Gao
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,7 +13,7 @@ avatar_filename: avatar.jpg
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Digital Image Watermarking Technology using Hadamard Transform and Arnold Scrambling
+  - Feature Extraction for Digital Audio Watermarking
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

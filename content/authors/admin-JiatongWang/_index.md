@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Lixuan Hao
+title: Jiatong Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Undergraduate student, Final Year Project (2019)
+role: Undergraduate student, Final Year Project (2018)
 avatar_filename: avatar.jpg
 
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Digital Image Watermarking Technology using Hadamard Transform and Arnold Scrambling
+  - The Digital Image Watermarking Method based On Non-subsampled Shearlet Domain and Discrete Cosine Transform
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
