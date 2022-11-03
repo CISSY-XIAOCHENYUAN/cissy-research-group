@@ -38,7 +38,7 @@ experience:
     date_start: '2016-01-11'
     date_end: '2021-07-31'
 
-  - title: Postdoctoral fellow
+  - title: Postdoctoral Fellowship
     company: University of Macau
     company_url: 'https://www.um.edu.mo/'
     company_logo: org-um
