@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinrun Wang
+title: Zhaojun Lin
 
 # Is this the primary user of the site?
 superuser: true
