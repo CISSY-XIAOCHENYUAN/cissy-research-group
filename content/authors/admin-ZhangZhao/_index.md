@@ -6,7 +6,7 @@ title: Zhang Zhao
 superuser: true
 
 # Role/position
-role: Master student (2018.7)
+role: Master student (2015.9 – 2018.7)
 avatar_filename: avatar.jpg
   
 

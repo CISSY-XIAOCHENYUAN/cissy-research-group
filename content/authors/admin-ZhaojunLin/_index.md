@@ -6,7 +6,7 @@ title: Xinrun Wang
 superuser: true
 
 # Role/position
-role: Master student (2022.7)
+role: Master student (2020.9 – 2022.7)
 avatar_filename: avatar.jpg
   
 

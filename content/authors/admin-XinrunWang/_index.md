@@ -6,7 +6,7 @@ title: Xinrun Wang
 superuser: true
 
 # Role/position
-role: Phd student
+role: Phd student (2021.1)
 avatar_filename: avatar.jpg
   
 

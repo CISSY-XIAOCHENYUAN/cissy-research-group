@@ -6,7 +6,7 @@ title: Fan Wang
 superuser: true
 
 # Role/position
-role: Phd student (since 2022.1)
+role: Phd student (2022.1 - Present)
 avatar_filename: avatar.jpg
 
 

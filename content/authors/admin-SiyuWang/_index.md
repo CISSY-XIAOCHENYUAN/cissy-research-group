@@ -6,7 +6,7 @@ title: Siyu Wang
 superuser: true
 
 # Role/position
-role: Master student (since 2021.21)
+role: Master student (2021.21 - Present)
 avatar_filename: avatar.jpg
 
 

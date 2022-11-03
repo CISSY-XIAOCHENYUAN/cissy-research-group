@@ -2,7 +2,7 @@
 title: Tong Liu
 first_name: Tong
 last_name: Liu
-role: Phd student (since 2022.8)
+role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
 superuser: false
 

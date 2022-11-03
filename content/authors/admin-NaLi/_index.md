@@ -6,7 +6,7 @@ title: Na Li
 superuser: true
 
 # Role/position
-role: Master student (2018.5)
+role: Master student (2015.9 – 2018.5)
 avatar_filename: avatar.jpg
   
 

@@ -6,7 +6,7 @@ title: Kaiqi Zhao
 superuser: true
 
 # Role/position
-role: Phd student
+role: Phd student (2020.9)
 avatar_filename: avatar.jpg
   
 

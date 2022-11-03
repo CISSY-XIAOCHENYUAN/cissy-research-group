@@ -6,7 +6,7 @@ title: Qiyuan Zhang
 superuser: true
 
 # Role/position
-role: Phd student (since 2021.8)
+role: Phd student (2021.8 - Present)
 avatar_filename: avatar.jpg
 
 

@@ -6,7 +6,7 @@ title: Mianjie Li
 superuser: true
 
 # Role/position
-role: Phd student (2020.6)
+role: Phd student (2017.9 - 2020.6)
 avatar_filename: avatar.jpg
   
 

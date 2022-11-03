@@ -6,7 +6,7 @@ title: Jiang Wei
 superuser: true
 
 # Role/position
-role: Master student (2019.3)
+role: Master student (2016.9 – 2019.3)
 avatar_filename: avatar.jpg
   
 

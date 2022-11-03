@@ -38,13 +38,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '#contact'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '#contact'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=p-RYbb0AAAAJ
-
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xiaochen-Yuan-2
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7490-6695
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=36562860900
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

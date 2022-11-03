@@ -1,18 +1,11 @@
 ---
 # Display name
 title: Zhiyao Xie
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Phd student (since 2022.8)
-=======
 first_name: Zhiyao
 last_name: Xie
-role: Phd student (since 2022.9)
+role: Phd student (2022.9 - Present)
+avatar_filename: avatar.jpg
+superuser: false
 
 education:
   courses:
@@ -29,8 +22,8 @@ organizations:
   - name: Macao Polytechnic University 
     url: 'https://www.mpu.edu.mo/en/index.php'
 
-email: p2215884@mpu.edu.mo
-
++email: p2215884@mpu.edu.mo
+ 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:

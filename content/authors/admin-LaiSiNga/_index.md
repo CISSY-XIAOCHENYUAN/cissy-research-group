@@ -6,7 +6,7 @@ title: Lai Si Nga, Konats
 superuser: true
 
 # Role/position
-role: Master student (since 2021.12)
+role: Master student (2021.12 - Present)
 avatar_filename: avatar.jpg
 
 

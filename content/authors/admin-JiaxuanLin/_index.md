@@ -6,7 +6,7 @@ title: Jiaxuan Lin
 superuser: true
 
 # Role/position
-role: Phd student (since 2022.8)
+role: Phd student (2022.8 - Present)
 avatar_filename: avatar.jpg
 
 
