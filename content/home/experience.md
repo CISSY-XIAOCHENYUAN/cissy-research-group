@@ -43,7 +43,7 @@ experience:
     company_url: 'https://www.um.edu.mo/'
     company_logo: org-um
     location: Macau
-+    date_start: '2014-02-01'
+    date_start: '2014-02-01'
     date_end: '2015-10-31'
     
   - title: Research Assistant
