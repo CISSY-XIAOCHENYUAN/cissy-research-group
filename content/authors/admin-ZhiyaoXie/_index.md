@@ -1,26 +1,34 @@
 ---
 # Display name
 title: Zhiyao Xie
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Phd student (2022.8 - Present)
+first_name: Zhiyao
+last_name: Xie
+role: Phd student (2022.9 - Present)
 avatar_filename: avatar.jpg
+superuser: false
 
+education:
+  courses:
+    - course: Msc in Computer Information System
+      institution: Macau University of Science and Technology
+      year: 2022
+    - course: BSc in Electronic Information Science and Technology
+      institution: Beijing Normal University in Zhuhai
+      year: 2019
 
 # Organizations/Affiliations
 organizations:
   - name: Faculty of Applied Sciences
   - name: Macao Polytechnic University 
     url: 'https://www.mpu.edu.mo/en/index.php'
-  
+
+email: p2215884@mpu.edu.mo
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Deep learning
+  - Images Forensics
+  - Deep Learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,3 +57,4 @@ user_groups:
   - Phd students
 ---
 
+Zhiyao Xie is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. Her current research topic is image tamper detection based on deep learning.
