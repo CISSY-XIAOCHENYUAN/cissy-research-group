@@ -6,7 +6,7 @@ title: Jinlong Li
 superuser: true
 
 # Role/position
-role: Master student (2019.9 – 2021.7)
+role: Master student (2021.7)
 avatar_filename: avatar.jpg
   
 
