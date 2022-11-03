@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chunzi Han
+title: Zhengyuan Chen
 
 # Is this the primary user of the site?
 superuser: true
