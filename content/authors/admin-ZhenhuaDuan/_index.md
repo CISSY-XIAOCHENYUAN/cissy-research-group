@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhenran Song
+title: Zhenhua Duan
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,11 +9,11 @@ superuser: true
 role: Undergraduate student, Final Year Project (2021)
 avatar_filename: avatar.jpg
 
+
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Traffic-Sign Detection and Classification in the Wild
-
+  - Campus Mask Recognition System
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
