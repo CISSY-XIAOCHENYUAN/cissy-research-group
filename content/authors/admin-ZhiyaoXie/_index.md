@@ -12,15 +12,7 @@ role: Phd student (since 2022.8)
 =======
 first_name: Zhiyao
 last_name: Xie
-role: Phd student (2022.9 - Present)
->>>>>>> 899cfe5d60a7d30d69c02d68f67115d50608df5d
-=======
-first_name: Zhiyao
-last_name: Xie
-role: Phd student (2022.9 - Present)
->>>>>>> 899cfe5d60a7d30d69c02d68f67115d50608df5d
-avatar_filename: avatar.jpg
-superuser: false
+role: Phd student (since 2022.9)
 
 education:
   courses:
