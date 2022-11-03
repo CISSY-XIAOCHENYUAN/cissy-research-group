@@ -29,7 +29,15 @@ email: p2209360@student.mpu.edu.mo
 
 highlight_name: false
 
-
+- icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=PS86g9cAAAAJ&hl=zh-CN
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Tong_Liu140
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57219485207
 user_groups:
   - Phd students
 ---
