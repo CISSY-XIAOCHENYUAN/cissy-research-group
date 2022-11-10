@@ -16,11 +16,22 @@ organizations:
   - name: Macao Polytechnic University 
     url: 'https://www.mpu.edu.mo/en/index.php'
   
+education:
+  courses:
+    - course: B.Sc. degree in Electronic Information Technology
+      institution: Macau University of Science and Technology
+      year: 2019
+    - course: M.Sc. Degree in Electronic Communication and Computer Engineering
+      institution: University of Nottingham
+      year: 2021
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Deep learning
+  - Images self-recovery
+  - Fragile Watermarking
+  - Speech recognition
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,4 +59,6 @@ highlight_name: false
 user_groups:
   - Phd students
 ---
+
+QIYUAN ZHANG is currently working towards his Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. His research interests include fragile watermarking for image tamper detection and recovery and speech recognition.
 
