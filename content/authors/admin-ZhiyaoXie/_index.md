@@ -30,6 +30,11 @@ interests:
   - Images Forensics
   - Deep Learning
 
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=PS86g9cAAAAJ&hl=zh-CN
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
