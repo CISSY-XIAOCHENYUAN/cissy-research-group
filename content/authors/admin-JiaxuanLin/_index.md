@@ -4,13 +4,18 @@ title: Jiaxuan Lin
 
 # Is this the primary user of the site?
 superuser: true
-
-# Role/position
 role: Phd student (since 2022.8)
 avatar_filename: avatar.jpg
 
-
-# Organizations/Affiliations
+education:
+  courses:
+    - course: Msc in Computer Information System
+      institution: Macau University of Science and Technology
+      year: 2019
+    - course: BSc in Electronic and Information Engineering
+      institution: Macau University of Science and Technology
+      year: 2016
+    
 organizations:
   - name: Faculty of Applied Sciences
   - name: Macao Polytechnic University 
@@ -20,8 +25,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Deep learning
-
+  - Object detection
+  - Person Reidentification
+  - Deep Learning
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -48,4 +54,5 @@ highlight_name: false
 user_groups:
   - Phd students
 ---
+JiaXuan Lin is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. His current research topic is Small Object Detection in Aerial Images.
 
