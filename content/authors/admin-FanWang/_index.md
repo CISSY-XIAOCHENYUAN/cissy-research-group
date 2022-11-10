@@ -20,7 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Deep learning
+  - Respiratory Sounds Classification
+  - Sound Processing
+  - Deep Learning
+
+education:
+  courses:
+    - course: Msc in Communication and Information System
+      institution: Xidian University
+      year: 2010
+    - course: BSc in Communication Engineering
+      institution: Hunan University
+      year: 2004
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,4 +60,4 @@ highlight_name: false
 user_groups:
   - Phd students
 ---
-
+WangFan is currently working towards the Ph.D. degree in Computer Applied Technology with the Faculty of Applied Sciences of the Macau Polytechnic University. His current research topic is respiratory sounds classification based on deep learning.
