@@ -1,16 +1,19 @@
 ---
 # Display name
 title: Bowen Meng
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position
 role: Phd student (since 2022.8)
-avatar_filename: avatar.jpg
+avatar_filename: MengBowen.jpg
 
+education:
+  courses:
+    - course: Honours Master of Arts in Communication - AI & Digital Media Concentration with Distinction
+      institution: Hong Kong Baptist University
+      year: 2022
+    - course: Honours Bachelor of Computer Science
+      institution: Wilfrid Laurier University
+      year: 2021
 
-# Organizations/Affiliations
 organizations:
   - name: Faculty of Applied Sciences
   - name: Macao Polytechnic University 
@@ -20,7 +23,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Deep learning
+  - Medical Image Security
+  - Robust Watermarking
+  - Cryptography
+  - Data Visualization
 
 
 # Social/Academic Networking
@@ -49,4 +55,4 @@ highlight_name: false
 user_groups:
   - Phd students
 ---
-
+Bowen Meng is currently working towards the Ph.D. degree of Computer Applied Technology in the Faculty of Applied Sciences, Macao Polytechnic University. His current research topic is medical image security.
