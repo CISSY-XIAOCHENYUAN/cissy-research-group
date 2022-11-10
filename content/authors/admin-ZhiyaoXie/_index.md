@@ -33,7 +33,7 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: https://scholar.google.com/citations?user=PS86g9cAAAAJ&hl=zh-CN
+    link: https://github.com/XZhiYao
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
