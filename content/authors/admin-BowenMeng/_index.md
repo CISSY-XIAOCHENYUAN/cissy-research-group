@@ -3,7 +3,7 @@
 title: Bowen Meng
 superuser: true
 role: Phd student (since 2022.8)
-avatar_filename: MengBowen.jpg
+avatar_filename: avatar.jpg
 
 education:
   courses:
