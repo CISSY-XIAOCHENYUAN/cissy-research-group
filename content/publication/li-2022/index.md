@@ -1,6 +1,6 @@
 ---
 title: "Power normalized cepstral robust features of deep neural networks in a cloud computing data privacy protection scheme"
-date: 2022-01-01
+date: 2022-11-07
 publishDate: 2022-11-10T05:38:25.224104Z
 authors: ["admin-MianjieLi", "Zhihong Tian", "Xiaojiang Du", "admin", "Chun Shan", "Mohsen Guizani"]
 publication_types: ["2"]
