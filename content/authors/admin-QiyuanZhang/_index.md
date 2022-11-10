@@ -28,9 +28,9 @@ education:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Images self-recovery
+  - Images Self-recovery
   - Fragile Watermarking
-  - Speech recognition
+  - Speech Recognition
 
 
 # Social/Academic Networking
