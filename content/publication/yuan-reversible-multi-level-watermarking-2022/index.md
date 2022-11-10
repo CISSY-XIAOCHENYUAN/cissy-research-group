@@ -2,7 +2,7 @@
 title: "Reversible Multi-Level Watermarking Scheme for Color Images"
 date: 2022-07-01
 publishDate: 2022-11-01T13:07:56.823296Z
-authors: ["admin", "Ying Sun"]
+authors: ["admin", "admin-YingSun"]
 author_notes:
 - "corresponding author"
 - ""
