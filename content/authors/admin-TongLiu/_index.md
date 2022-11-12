@@ -38,6 +38,9 @@ social:
   - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=57219485207
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/maodou1203
 user_groups:
   - Phd students
 ---

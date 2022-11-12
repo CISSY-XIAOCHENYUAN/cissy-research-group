@@ -32,7 +32,10 @@ interests:
   - Fragile Watermarking
   - Speech Recognition
 
-
+social:
+ - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=l079_dsAAAAJ
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
