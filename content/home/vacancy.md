@@ -5,8 +5,9 @@ widget: blank
 headless: true
 weight: 60
 design:
-  columns: '1'
+  view: compact
+  columns: '2'
 ---
 
-design:
-  view: compact
+test
+  
