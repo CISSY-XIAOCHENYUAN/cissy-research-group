@@ -1,5 +1,5 @@
 ---
-title:
+title: Vacanct positions
 subtitle:
 widget: blank
 headless: true
@@ -8,4 +8,5 @@ design:
   columns: '1'
 ---
 
-hello
+design:
+  view: compact
