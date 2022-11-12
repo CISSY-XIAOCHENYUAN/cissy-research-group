@@ -33,7 +33,7 @@ interests:
   - Speech Recognition
 
 social:
- - icon: google-scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=l079_dsAAAAJ
 # Social/Academic Networking
