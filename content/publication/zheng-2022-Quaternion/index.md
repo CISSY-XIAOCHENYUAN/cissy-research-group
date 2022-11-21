@@ -1,6 +1,6 @@
 ---
 title: "Quaternion-valued correlation learning for few-shot semantic segmentation"
-date: 2022-01-01
+date: 2022-11-21
 publishDate: 2022-11-21T03:00:00.501312Z
 authors: ["Zewen Zheng", "Guoheng Huang", "admin", "Chi-Man Pun", "Hongrui Liu", "Wing-Kuen Ling"]
 publication_types: ["2"]
