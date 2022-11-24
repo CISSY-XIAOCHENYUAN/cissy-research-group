@@ -38,6 +38,6 @@ main:
     weight: 70
 
   - name: Graduated Students
-    PageRef: grants/_index.md
+    PageRef: publication/_index.md
     weight: 10
     parent: research
