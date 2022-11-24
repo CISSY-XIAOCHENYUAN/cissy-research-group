@@ -19,12 +19,12 @@ main:
     PageRef: people/graduates/index.md
     weight: 20
     parent: people
-  - name: Publications
-    url: publication
-    weight: 30
-#  - name: Grants
-#    url: grants
-#    weight: 40
+#  - name: Publications
+#    url: publication
+#    weight: 30
+  - name: Grants
+    url: grants
+    weight: 40
   - name: Teaching
     url: teaching
     weight: 50
@@ -38,7 +38,7 @@ main:
     weight: 70
 
   - name: Graduated Students
-    PageRef: grants/_index.md
+    PageRef: publication/_index.md
     weight: 10
     parent: research
 #  - name: Current People
