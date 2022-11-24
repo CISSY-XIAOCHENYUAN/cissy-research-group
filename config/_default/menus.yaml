@@ -11,20 +11,20 @@ main:
     url: people
     identifier: people
     weight: 20
-#  - name: Current People
-#    PageRef: people/current-people/index.md
-#    weight: 10
-#    parent: people
-#  - name: Graduated Students
-#    PageRef: people/graduates/index.md
-#    weight: 20
-#    parent: people
+  - name: Current People
+    PageRef: people/current-people/index.md
+    weight: 10
+    parent: people
+  - name: Graduated Students
+    PageRef: people/graduates/index.md
+    weight: 20
+    parent: people
   - name: Publications
     url: publication
     weight: 30
-  - name: Grants
-    url: grants
-    weight: 40
+#  - name: Grants
+#    url: grants
+#    weight: 40
   - name: Teaching
     url: teaching
     weight: 50
@@ -38,10 +38,10 @@ main:
     weight: 70
 
   - name: Graduated Students
-    PageRef: people/graduates/index.md
+    PageRef: grants/_index.md
     weight: 10
     parent: research
-  - name: Current People
-    PageRef: people/current-people/index.md
-    weight: 20
-    parent: research
+#  - name: Current People
+#    PageRef: people/current-people/index.md
+#    weight: 20
+#    parent: research
