@@ -38,6 +38,6 @@ main:
     weight: 70
 
   - name: Graduated Students
-    PageRef: publication/_index.md
+    PageRef: people/graduates/index.md
     weight: 10
     parent: research
