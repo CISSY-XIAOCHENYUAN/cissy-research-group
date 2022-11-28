@@ -15,6 +15,17 @@ bio:
 interests:
   - Research on Robust Watermarking Method Based on Local Features
 
+education:
+  courses:
+    - course: Ph.D in Electronics and Information Technology
+      institution: Macau University of Science and Technology
+      year: 2020
+
+interests:
+  - Image Processing
+  - Digital Multimedia Processing
+  - Information Security
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -33,4 +44,4 @@ highlight_name: false
 user_groups:
   - PhD graduates
 ---
-
+Mianjie Li is currently an Associate Professor with the School of Electronics and Information, Guangdong Polytechnic Normal University, Guangzhou, China. His research interests include image processing, digital multimedia processing and information security.
