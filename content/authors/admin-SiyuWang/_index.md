@@ -20,7 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - A Novel Reversible Robust Watermarking Algorithm
+  - Robust Watermarking
+  - Reversible Watermarking
+  - Data analysis
+
+education:
+  courses:
+    - course: BSc in Information management and information system
+      institution: Jilin Agricultural University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,4 +56,4 @@ highlight_name: false
 user_groups:
   - Master students
 ---
-
+Wang Siyu is currently studying for a master's degree in big data and the Internet of Things with the Faculty of Applied Sciences of the Macao Polytechnic University. Her current research topic is robust reversible digital image watermarking.
