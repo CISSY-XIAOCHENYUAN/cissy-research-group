@@ -1,11 +1,11 @@
 ---
 title: "Robust digital image watermarking using distortion-compensated dither modulation"
 date: 2018-01-01
-publishDate: 2023-03-21T05:09:23.943016Z
-authors: ["Mianjie Li", "Xiaochen Yuan"]
+publishDate: 2022-11-01T13:07:56.827767Z
+authors: ["admin-MianjieLi", "admin"]
 publication_types: ["1"]
-abstract: ""
+abstract: "In this paper, we propose a robust feature extraction based digital image watermarking method using Distortion- Compensated Dither Modulation (DC-DM). Our proposed local watermarking method provides stronger robustness and better flexibility than traditional global watermarking methods. We improve robustness by introducing feature extraction and DC-DM method. To extract the robust feature points, we propose a DAISY-based Robust Feature Extraction (DRFE) method by employing the DAISY descriptor and applying the entropy calculation based filtering. The experimental results show that the proposed method achieves satisfactory robustness under the premise of ensuring watermark imperceptibility quality compared to other existing methods."
 featured: false
-publication: "*Ninth International Conference on Graphic and Image Processing (ICGIP 2017)*"
+publication: "in *Ninth International Conference on Graphic and Image Processing (ICGIP 2017)*"
 ---
 
