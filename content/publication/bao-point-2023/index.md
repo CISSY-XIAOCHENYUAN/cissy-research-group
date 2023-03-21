@@ -2,7 +2,11 @@
 title: "Point Cloud Plane Segmentation-Based Robust Image Matching for Camera Pose Estimation"
 date: 2023-01-01
 publishDate: 2023-03-21T05:17:51.884751Z
-authors: ["admin-JunqiBao", "admin", "Guoheng Huang", "Chan-Tong Lam"]
+authors: 
+- admin-JunqiBao
+- admin
+- Guoheng Huang
+- Chan-Tong Lam
 author_notes:
 - ""
 - "corresponding author"
