@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bao Junqi, Chester
+title: Junqi Bao
 
 # Is this the primary user of the site?
 superuser: true
