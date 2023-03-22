@@ -8,7 +8,7 @@ authors:
 - Pingping Xu
 - Ziyang Chen
 - Wenyuan Li
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Chi-Man Pun
 - Zhixin Huang

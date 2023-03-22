@@ -6,7 +6,7 @@ authors:
 - Junyu Lin
 - Guoheng Huang
 - Jun Huang
-- Xiaochen Yuan
+- admin
 - Yiwen Zeng
 - Cheng Shi
 author_notes:
