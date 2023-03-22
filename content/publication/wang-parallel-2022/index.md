@@ -2,7 +2,7 @@
 title: "Parallel Multiple Watermarking Using Adaptive Inter-Block Correlation"
 date: 2022-01-01
 publishDate: 2022-11-02T05:16:01.177820Z
-authors: ["adimin-XingrunWang", "admin", "admin-MianjieLi", "admin-YingSun", "Jinyu Tian", "Hongfei Guo", "Jianqing Li"]
+authors: ["admin-XingrunWang", "admin", "admin-MianjieLi", "admin-YingSun", "Jinyu Tian", "Hongfei Guo", "Jianqing Li"]
 author_notes:
 - ""
 - "corresponding author"
