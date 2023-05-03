@@ -35,7 +35,7 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=l079_dsAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=XJb0kokAAAAJ&view_op=list_works&gmla=AHoSzlVPXIBKwIsXT5hoQs8VgqfcpOXbngJb9aP_wFUPP1QBEP5mpOL4tLwMYox3-5A7bxfeqJId7f69Kd1Lo1P-BlZFWN850euhkWY4Xk4
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
