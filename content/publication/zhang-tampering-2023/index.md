@@ -1,7 +1,7 @@
 ---
 title: "Tampering Localization and Self-Recovery Using Block Labeling and Adaptive Significance"
-date: 2023-04-25
-publishDate: 2023-04-25T05:16:01.168341Z
+date: 2023-05-01
+publishDate: 2023-05-01T05:16:01.168341Z
 authors: ["admin-QiyuanZhang", "admin", "admin-TongLiu", "Chan-Tong Lam", "Guoheng Huang", "Di Lin", "Ping Li"]
 author_notes:
 - ""
