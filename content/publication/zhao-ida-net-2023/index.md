@@ -1,6 +1,6 @@
 ---
 title: "IDA-Net: Inheritable Deformable Attention Network of structural MRI for Alzheimer’s Disease Diagnosis"
-date: 2023-07-01
+date: 2023-03-21
 publishDate: 2023-03-21T05:09:23.987500Z
 authors:
 - Qin Zhao
