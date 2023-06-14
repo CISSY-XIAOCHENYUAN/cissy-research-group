@@ -17,7 +17,7 @@ author_notes:
 - ""
 - "corresponding author"
 publication_types: ["2"]
-abstract:""
+abstract: "abc"
 featured: false
 publication: "in *IEEE ACM Transactions on Audio Speech and Language Processing* [SCI, JCR Q1]"
 url_pdf: "https://ieeexplore.ieee.org/document/10147368"
