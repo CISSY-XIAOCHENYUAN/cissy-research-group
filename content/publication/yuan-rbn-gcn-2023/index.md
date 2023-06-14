@@ -7,7 +7,7 @@ authors:
 - Guoheng Huang
 - Fenghuan Li
 - admin
-- Chi-Man Pun 
+- ChiMan Pun 
 - Guo Zhong
 author_notes:
 - ""
@@ -17,6 +17,7 @@ author_notes:
 - ""
 - "corresponding author"
 publication_types: ["2"]
+abstract:""
 featured: false
 publication: "in *IEEE ACM Transactions on Audio Speech and Language Processing* [SCI, JCR Q1]"
 url_pdf: "https://ieeexplore.ieee.org/document/10147368"
