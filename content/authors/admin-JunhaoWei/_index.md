@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinye Wang
+title: Junhao Wei
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,15 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 Interests:
-  - Medical image analysis
+  - Images Identification
+  - Artificial Intelligence
   - Deep Learning
 
 
 
 education:
   courses:
-    - course:BSc in Computer Science and Technology
-      institution: Taizhou Institute of Science and Technology
+    - course: BSc in Unmanned Aerial Vehicle System Engineering
+      institution: Beijing Institute of Technology, Zhuhai
       year: 2023
 
 
@@ -59,4 +60,4 @@ highlight_name: false
 user_groups:
   - Master students
 ---
-XinYe Wang is currently working towards the Master of Science in Big Data and Internet of Things with the Faculty of Applied Sciences of the Macau Polytechnic University. His current research topic is image and video processing.
+Junhao Wei is currently working towards the MSc degree in Big Data and IoT with the Faculty of Applied Sciences of the Macau Polytechnic University. 
