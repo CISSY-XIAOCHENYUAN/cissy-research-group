@@ -2,7 +2,7 @@
 title: "SPA-Net: A Deep Learning Approach Enhanced Using a Span-Partial Structure and Attention Mechanism for Image Copy-Move Forgery Detection
 "
 date: 2023-5-16
-publishDate: 2023-05-01T05:16:01.168341Z
+publishDate: 2023-05-01T05:19:01.168341Z
 authors: 
 - "admin-KaiqiZhao"
 - "admin"
