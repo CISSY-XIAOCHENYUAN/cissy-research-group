@@ -54,6 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master students
+  - Master graduates
+
 ---
 Wang Siyu is currently studying for a master's degree in big data and the Internet of Things with the Faculty of Applied Sciences of the Macao Polytechnic University. Her current research topic is robust reversible digital image watermarking.
