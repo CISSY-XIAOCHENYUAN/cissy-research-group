@@ -3,7 +3,7 @@ title: "IDA-Net: Inheritable Deformable Attention Network of structural MRI for 
 date: 2023-03-21
 publishDate: 2023-03-21T05:09:23.987500Z
 authors:
-- Qin Zhao
+- admin-QinZhao
 - Guoheng Huang
 - Pingping Xu
 - Ziyang Chen
