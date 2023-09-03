@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yunhang Sun
+title: Yuhang Sun
 
 # Is this the primary user of the site?
 superuser: true

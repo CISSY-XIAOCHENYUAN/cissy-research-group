@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lunjun Wang
+title: Linjun Wang
 
 # Is this the primary user of the site?
 superuser: true
