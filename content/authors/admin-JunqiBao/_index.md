@@ -6,7 +6,7 @@ title: Junqi Bao
 superuser: true
 
 # Role/position
-role: Phd student (since 2021.12)
+role: Phd student (since 2023.09)
 avatar_filename: avatar.jpg
 
 
