@@ -1,12 +1,12 @@
 ---
-title: SCDet is published in the Visual Computer [JCR Q2]
+title: SPA-NET is published in Sensors [JCR Q2]
 date: 2023-05-21
 authors: 
-- "Tongxu Lin"
-- "Guoheng Huang"
+- "admin-KaiqiZhao"
 - "admin"
-- "Guo Zhong"
-- "Xiaocong Huang"
-- "Chi-Man Pun"
+- "admin-ZhiyaoXie"
+- "admin-YanXiang"
+- "Guoheng Huang"
+- "Li Feng"
 ---
 <!--more-->
