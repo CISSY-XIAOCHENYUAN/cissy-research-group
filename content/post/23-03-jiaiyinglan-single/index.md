@@ -11,5 +11,5 @@ authors:
 - "Hongrui Liu"
 - "Wing-Kuen Ling "
 ---
-<!--more-->
 Single Cross-domain Semantic Guidance Network for Multimodal Unsupervised Image Translation is published in *International Conference on Multimedia Modeling (MMM 2023)* [CCF C]
+<!--more-->
