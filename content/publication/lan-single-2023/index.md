@@ -1,6 +1,6 @@
 ---
 title: "Single Cross-domain Semantic Guidance Network for Multimodal Unsupervised Image Translation"
-date: 2023-3-29
+date: 2023-03-29
 publishDate: 2023-03-29T05:19:01.168341Z
 authors: 
 - "Jiaying Lan"
