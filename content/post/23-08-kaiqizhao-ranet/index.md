@@ -8,5 +8,5 @@ authors:
 - "Guoheng Huang"
 - "Feng Li"
 ---
-RA-Net: A Deep Learning Approach based on Residual Structure and Attention Mechanism for Image Copy-move Forgery Detection is accepted in *32nd International Conference on Artificial Neural Networks* (ICANN 2023)
+RA-Net: A Deep Learning Approach based on Residual Structure and Attention Mechanism for Image Copy-move Forgery Detection is accepted in *32nd International Conference on Artificial Neural Networks* (ICANN 2023) [CCF C]
 <!--more-->
