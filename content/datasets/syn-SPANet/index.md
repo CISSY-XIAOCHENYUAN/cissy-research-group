@@ -1,6 +1,6 @@
 ---
-title: IML-MPU Dataset for Multi-Tamper (Splicing, Copy-Move and Removal)
-summary: IML-MPU is a large-scale synthetic forgery dataset generating by **Photoshop scripting (PS-Scripting)**, using a diverse set of samples sourced from VISION, KCMI, and own photographs selected as original images. The dataset comprises three distinct subsets, namely copy-move, splicing, and removal, consisting of **38,000**, **43,000**, and **32,000** images, respectively. It contains uncompressed TIFF images and JPEG images with different compression factors.
+title: SPANet Dataset for Copy-Move
+summary: The SPANet Dataset is a synthetic dataset specifically designed for copy-move forgery detection, using the SUN and MSCOCO datasets as its foundational sources. The dataset consists of 550 basic forgery images, including a diverse range of **12 attack types** within rotation and scaling variations, and **11 post-processing techniques**. Therefore, the number of forgery images in SPANet Dataset is 550 * 12 * 11 = **72600**.
 
 tags:
   - Image Forensic
@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: IML-MPU
+  caption: SPANet
   focal_point: Smart
 
 links:
