@@ -13,157 +13,256 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# We will release soon...
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[//]: # ([Wowchemy]&#40;https://wowchemy.com/&#41; | [Documentation]&#40;https://wowchemy.com/docs/content/slides/&#41;)
 
----
+[//]: # ()
+[//]: # (---)
 
-## Features
+[//]: # ()
+[//]: # (## Features)
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[//]: # ()
+[//]: # (- Efficiently write slides in Markdown)
 
----
+[//]: # (- 3-in-1: Create, Present, and Publish your slides)
 
-## Controls
+[//]: # (- Supports speaker notes)
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+[//]: # (- Mobile friendly slides)
 
----
+[//]: # ()
+[//]: # (---)
 
-## Code Highlighting
+[//]: # ()
+[//]: # (## Controls)
 
-Inline code: `variable`
+[//]: # ()
+[//]: # (- Next: `Right Arrow` or `Space`)
 
-Code block:
+[//]: # (- Previous: `Left Arrow`)
 
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+[//]: # (- Start: `Home`)
 
----
+[//]: # (- Finish: `End`)
 
-## Math
+[//]: # (- Overview: `Esc`)
 
-In-line math: $x + y = z$
+[//]: # (- Speaker notes: `S`)
 
-Block math:
+[//]: # (- Fullscreen: `F`)
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+[//]: # (- Zoom: `Alt + Click`)
 
----
+[//]: # (- [PDF Export]&#40;https://revealjs.com/pdf-export/&#41;)
 
-## Fragments
+[//]: # ()
+[//]: # (---)
 
-Make content appear incrementally
+[//]: # ()
+[//]: # (## Code Highlighting)
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
+[//]: # ()
+[//]: # (Inline code: `variable`)
 
-Press `Space` to play!
+[//]: # ()
+[//]: # (Code block:)
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+[//]: # ()
+[//]: # (```python)
 
----
+[//]: # (porridge = "blueberry")
 
-A fragment can accept two optional parameters:
+[//]: # (if porridge == "blueberry":)
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+[//]: # (    print&#40;"Eating..."&#41;)
 
----
+[//]: # (```)
 
-## Speaker Notes
+[//]: # ()
+[//]: # (---)
 
-Add speaker notes to your presentation
+[//]: # ()
+[//]: # (## Math)
 
-```markdown
-{{%/* speaker_note */%}}
+[//]: # ()
+[//]: # (In-line math: $x + y = z$)
 
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
+[//]: # ()
+[//]: # (Block math:)
 
-Press the `S` key to view the speaker notes!
+[//]: # ()
+[//]: # ($$)
 
-{{< speaker_note >}}
+[//]: # (f\left&#40; x \right&#41; = \;\frac{{2\left&#40; {x + 4} \right&#41;\left&#40; {x - 4} \right&#41;}}{{\left&#40; {x + 4} \right&#41;\left&#40; {x + 1} \right&#41;}})
 
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
+[//]: # ($$)
 
----
+[//]: # ()
+[//]: # (---)
 
-## Themes
+[//]: # ()
+[//]: # (## Fragments)
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+[//]: # ()
+[//]: # (Make content appear incrementally)
 
----
+[//]: # ()
+[//]: # (```)
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+[//]: # ({{%/* fragment */%}} One {{%/* /fragment */%}})
 
----
+[//]: # ({{%/* fragment */%}} **Two** {{%/* /fragment */%}})
 
-{{< slide background-image="/media/boards.jpg" >}}
+[//]: # ({{%/* fragment */%}} Three {{%/* /fragment */%}})
 
-## Custom Slide
+[//]: # (```)
 
-Customize the slide style and background
+[//]: # ()
+[//]: # (Press `Space` to play!)
 
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+[//]: # ()
+[//]: # ({{% fragment %}} One {{% /fragment %}})
 
----
+[//]: # ({{% fragment %}} **Two** {{% /fragment %}})
 
-## Custom CSS Example
+[//]: # ({{% fragment %}} Three {{% /fragment %}})
 
-Let's make headers navy colored.
+[//]: # ()
+[//]: # (---)
 
-Create `assets/css/reveal_custom.css` with:
+[//]: # ()
+[//]: # (A fragment can accept two optional parameters:)
 
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
+[//]: # ()
+[//]: # (- `class`: use a custom style &#40;requires definition in custom CSS&#41;)
 
----
+[//]: # (- `weight`: sets the order in which a fragment appears)
 
-# Questions?
+[//]: # ()
+[//]: # (---)
 
-[Ask](https://discord.gg/z8wNYzb)
+[//]: # ()
+[//]: # (## Speaker Notes)
 
-[Documentation](https://wowchemy.com/docs/content/slides/)
+[//]: # ()
+[//]: # (Add speaker notes to your presentation)
+
+[//]: # ()
+[//]: # (```markdown)
+
+[//]: # ({{%/* speaker_note */%}})
+
+[//]: # ()
+[//]: # (- Only the speaker can read these notes)
+
+[//]: # (- Press `S` key to view)
+
+[//]: # (  {{%/* /speaker_note */%}})
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (Press the `S` key to view the speaker notes!)
+
+[//]: # ()
+[//]: # ({{< speaker_note >}})
+
+[//]: # ()
+[//]: # (- Only the speaker can read these notes)
+
+[//]: # (- Press `S` key to view)
+
+[//]: # (  {{< /speaker_note >}})
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # (## Themes)
+
+[//]: # ()
+[//]: # (- black: Black background, white text, blue links &#40;default&#41;)
+
+[//]: # (- white: White background, black text, blue links)
+
+[//]: # (- league: Gray background, white text, blue links)
+
+[//]: # (- beige: Beige background, dark text, brown links)
+
+[//]: # (- sky: Blue background, thin dark text, blue links)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # (- night: Black background, thick white text, orange links)
+
+[//]: # (- serif: Cappuccino background, gray text, brown links)
+
+[//]: # (- simple: White background, black text, blue links)
+
+[//]: # (- solarized: Cream-colored background, dark green text, blue links)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # ({{< slide background-image="/media/boards.jpg" >}})
+
+[//]: # ()
+[//]: # (## Custom Slide)
+
+[//]: # ()
+[//]: # (Customize the slide style and background)
+
+[//]: # ()
+[//]: # (```markdown)
+
+[//]: # ({{</* slide background-image="/media/boards.jpg" */>}})
+
+[//]: # ({{</* slide background-color="#0000FF" */>}})
+
+[//]: # ({{</* slide class="my-style" */>}})
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # (## Custom CSS Example)
+
+[//]: # ()
+[//]: # (Let's make headers navy colored.)
+
+[//]: # ()
+[//]: # (Create `assets/css/reveal_custom.css` with:)
+
+[//]: # ()
+[//]: # (```css)
+
+[//]: # (.reveal section h1,)
+
+[//]: # (.reveal section h2,)
+
+[//]: # (.reveal section h3 {)
+
+[//]: # (  color: navy;)
+
+[//]: # (})
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # (# Questions?)
+
+[//]: # ()
+[//]: # ([Ask]&#40;https://discord.gg/z8wNYzb&#41;)
+
+[//]: # ()
+[//]: # ([Documentation]&#40;https://wowchemy.com/docs/content/slides/&#41;)
