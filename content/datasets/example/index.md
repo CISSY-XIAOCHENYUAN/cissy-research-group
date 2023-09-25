@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Download Dataset
-    url: https://twitter.com/georgecushen
+    url: 'slides/example'
 url_code: ''
 url_pdf: ''
 url_slides: ''
