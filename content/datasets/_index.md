@@ -5,7 +5,7 @@ title: Datasets
 # widget: pages
 
 # Listing view
-view: 3
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
