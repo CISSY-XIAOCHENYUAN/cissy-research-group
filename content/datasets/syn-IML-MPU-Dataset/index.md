@@ -22,6 +22,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+author: admin
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
