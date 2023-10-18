@@ -1,6 +1,5 @@
 ---
-title: "SPA-Net: A Deep Learning Approach Enhanced Using a Span-Partial Structure and Attention Mechanism for Image Copy-Move Forgery Detection
-"
+title: "CAMU-Net: Copy-Move Forgery Detection Utilizing Coordinate Attention and Multi-Scale Feature Fusion-based Up-Sampling"
 date: 2023-9-28
 publishDate: 2023-09-28T05:19:01.168341Z
 authors: 
