@@ -1,5 +1,5 @@
 ---
-title: Vacanct positions
+title: Research
 subtitle:
 widget: blank
 headless: false
