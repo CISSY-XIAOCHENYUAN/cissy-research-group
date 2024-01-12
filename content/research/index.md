@@ -1,7 +1,11 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+title: My page
+type: landing
 
-# Homepage is headless, other widget pages are not.
-headless: true
+sections:
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
