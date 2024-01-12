@@ -2,7 +2,7 @@
 title: Vacanct positions
 subtitle:
 widget: blank
-headless: true
+headless: false
 weight: 60
 design:
   view: compact
