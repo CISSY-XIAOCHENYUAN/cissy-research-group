@@ -19,6 +19,9 @@ main:
     PageRef: people/graduates/index.md
     weight: 20
     parent: people
+  - name: Research
+    url: research
+    weight: 25
   - name: Publications
     url: publication
     weight: 30
