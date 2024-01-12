@@ -18,8 +18,8 @@ content:
   user_groups:
     - Supervisor
     - Phd students
-    - Master students
-    - Undergraduate students
+#    - Master students
+#    - Undergraduate students
     
 
 design:
