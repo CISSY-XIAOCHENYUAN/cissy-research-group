@@ -44,7 +44,7 @@ main:
 #    weight: 70
 
 #  - name: Graduated Students
-#    PageRef: publication/_index.md
+#    PageRef: publication/index.md
 #    weight: 10
 #    parent: research
 #  - name: Current People
