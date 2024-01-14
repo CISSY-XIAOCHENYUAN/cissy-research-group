@@ -29,7 +29,7 @@ publication_types:
 - article-journal
 publication: "in *Physics in Medicine & Biology* [SCI,JCR Q2]"
 doi: 10.1088/1361-6560/acaeee
-abstract: <div class="justify-align">Objective. Histopathology image segmentation can assist medical professionals
+abstract: Objective. Histopathology image segmentation can assist medical professionals
   in identifying and diagnosing diseased tissue more efficiently. Although fully supervised
   segmentation models have excellent performance, the annotation cost is extremely
   expensive. Weakly supervised models are widely used in medical image segmentation
@@ -54,7 +54,7 @@ abstract: <div class="justify-align">Objective. Histopathology image segmentatio
   a weakly supervised semantic segmentation network that achieves approximate fully
   supervised segmentation performance even in the case of incomplete labels. The proposed
   AA and pixel-level contrast learning also make the edges more accurate and can well
-  assist pathologists in their research.</div>
+  assist pathologists in their research.
 links:
 - name: URL
   url: https://dx.doi.org/10.1088/1361-6560/acaeee

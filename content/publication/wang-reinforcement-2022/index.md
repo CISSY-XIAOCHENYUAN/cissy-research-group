@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Emerging Topics in Computational Intelligence* [SCI, JCR Q1]"
 doi: 10.1109/TETCI.2022.3145694
-abstract: <div class="justify-align">Task scheduling on edge computing servers is a critical concern affecting
+abstract: Task scheduling on edge computing servers is a critical concern affecting
   user experience. Current scheduling methods attain an overall appealing performance
   through centralized control. Nevertheless, forcing users to act based on a centralized
   control is impractical. Hence, this work suggests a game theory-based distributed
@@ -26,7 +26,7 @@ abstract: <div class="justify-align">Task scheduling on edge computing servers i
   is reached quickly through our proposed acceleration scheme, the proposed model
   provides various QoS for different priority users. The experimental results highlight
   that the developed solution provides differentiated services while optimizing computing
-  resource scheduling and ensuring an approximate Nash equilibrium in polynomial time.</div>
+  resource scheduling and ensuring an approximate Nash equilibrium in polynomial time.
 tags:
 - Task analysis
 - Computational modeling

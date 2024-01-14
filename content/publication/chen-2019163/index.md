@@ -19,7 +19,7 @@ publication_types:
 - article-journal
 publication: "in *Computer Methods and Programs in Biomedicine* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.cmpb.2019.06.024
-abstract: <div class="justify-align">Background and objective Wheezing is a common symptom of patients caused
+abstract: Background and objective Wheezing is a common symptom of patients caused
   by asthma and chronic obstructive pulmonary diseases. Wheezing detection identifies
   wheezing lung sounds and helps physicians in diagnosis, monitoring, and treatment
   of pulmonary diseases. Different from the traditional way to detect wheezing sounds
@@ -44,7 +44,7 @@ abstract: <div class="justify-align">Background and objective Wheezing is a comm
   perform excellent, with the accuracy, sensitivity, specificity up to 99.52%, 100%
   and 99.27% respectively. We validate the method with public respiratory sounds dataset.
   Conclusion The comparison results indicate the very good performance of the proposed
-  methods for long-term wheezing monitoring and telemedicine.</div>
+  methods for long-term wheezing monitoring and telemedicine.
 tags:
 - Adaptive Multi-Level In-Exhale Segmentation (AMIE$_textrmS$EG)
 - Enhanced Generalized S Transform

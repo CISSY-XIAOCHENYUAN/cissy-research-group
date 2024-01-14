@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"
 doi: 10.1109/TIFS.2016.2615272
-abstract: <div class="justify-align">Tampering detection methods based on image hashing have been widely studied
+abstract: Tampering detection methods based on image hashing have been widely studied
   with continuous advancements. However, most existing models cannot generate object-level
   tampering localization results, because the forensic hashes attached to the image
   lack contour information. In this paper, we present a novel tampering detection
@@ -25,7 +25,7 @@ abstract: <div class="justify-align">Tampering detection methods based on image 
   based on triangle similarity; in addition, it matches multiple regions simultaneously
   by utilizing manifold ranking based on different graph structures and features.
   Experimental results demonstrate that the proposed IAMRM is a promising method for
-  object-level tampering detection compared with the state-ofthe-art methods.</div>
+  object-level tampering detection compared with the state-ofthe-art methods.
 links:
 - name: URL
   url: http://ieeexplore.ieee.org/document/7583645/

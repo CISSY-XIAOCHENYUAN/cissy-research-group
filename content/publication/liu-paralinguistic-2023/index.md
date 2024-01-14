@@ -14,7 +14,7 @@ publication_types:
 publication: "in *EURASIP Journal on Audio, Speech, and Music Processing*  [SCI, JCR Q2]"
 url_pdf: "https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-023-00290-x"
 doi: 10.1186/s13636-023-00290-x
-abstract: <div class="justify-align">Abstract Emotion plays a dominant role in speech. The same utterance with
+abstract: Abstract Emotion plays a dominant role in speech. The same utterance with
   different emotions can lead to a completely different meaning. The ability to perform
   various of emotion during speaking is also one of the typical characters of human.
   In this case, technology trends to develop advanced speech emotion classification
@@ -28,7 +28,7 @@ abstract: <div class="justify-align">Abstract Emotion plays a dominant role in s
   the Berlin database to evaluate the performance of the proposed approach. Experimental
   results show that the proposed approach achieves satisfied performances. Comparisons
   are conducted in clean condition and noisy condition respectively, and the results
-  indicate better performance of the proposed scheme.</div>
+  indicate better performance of the proposed scheme.
 links:
 - name: URL
   url: 

@@ -18,7 +18,7 @@ publication_types:
 - article-journal
 publication: "in *Expert Systems with Applications* [SCI, JCR Q1]"
 doi: 10.1016/j.eswa.2023.120228
-abstract: <div class="justify-align">This paper proposes a scheme for localization and restoration of image tampered
+abstract: This paper proposes a scheme for localization and restoration of image tampered
   regions using block labelling and adaptive significance. To generate the watermark
   information which includes authentication data and re­ covery data, we propose a
   block coordinate labelling method, which extracts the exact coordinate position
@@ -35,7 +35,7 @@ abstract: <div class="justify-align">This paper proposes a scheme for localizati
   bits in block units, thereby reducing the possibility of recovery bits being lost.
   The experimental results show that in our scheme, the average precision reaches
   86.70%, which is 4% higher than the existing results, and the average F1score reaches
-  92.02%, which is 2% higher than the existing results.</div>
+  92.02%, which is 2% higher than the existing results.
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0957417423007303

@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *Sensors* [SCI,JCR Q2]"
 doi: 10.3390/s23146430
-abstract: <div class="justify-align">With the wide application of visual sensors and development of digital image
+abstract: With the wide application of visual sensors and development of digital image
   processing technology, image copy-move forgery detection (CMFD) has become more
   and more prevalent. Copy-move forgery is copying one or several areas of an image
   and pasting them into another part of the same image, and CMFD is an efficient means
@@ -51,7 +51,7 @@ abstract: <div class="justify-align">With the wide application of visual sensors
   the CASIA and CoMoFoD datasets as testing datasets to verify the performance of
   our proposed method. The Precision, Recall, and F1 are calculated to evaluate the
   CMFD results. Comparison results showed that our model achieved a satisfactory performance
-  on both testing datasets and performed better than the existing methods.</div>
+  on both testing datasets and performed better than the existing methods.
 links:
 - name: URL
   url: https://www.mdpi.com/1424-8220/23/14/6430

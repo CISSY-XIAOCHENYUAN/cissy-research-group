@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: 'in *Physics in Medicine & Biology* [SCI, JCR Q2]'
 doi: 10.1088/1361-6560/ad135e
-abstract: <div class="justify-align">Objective. Due to non-invasive imaging and the multimodality of magnetic
+abstract: Objective. Due to non-invasive imaging and the multimodality of magnetic
   resonance imaging (MRI) images, MRI-based multi-modal brain tumor segmentation (MBTS)
   studies have attracted more and more attention in recent years. With the great success
   of convolutional neural networks in various computer vision tasks, lots of MBTS
@@ -35,7 +35,7 @@ abstract: <div class="justify-align">Objective. Due to non-invasive imaging and 
   achieves superior results to current popular methods with less computational cost.
   Significance. We propose a novel algorithm for brain tumor segmentation task that
   achieves better performance with fewer parameters, which helps the clinical application
-  of automatic brain tumor segmentation.</div>
+  of automatic brain tumor segmentation.
 links:
 - name: URL
   url: https://dx.doi.org/10.1088/1361-6560/ad135e

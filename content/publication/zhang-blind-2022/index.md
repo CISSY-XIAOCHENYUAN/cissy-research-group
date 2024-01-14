@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Access* [SCI, JCQ Q2]"
 doi: 10.1109/ACCESS.2022.3204865
-abstract: <div class="justify-align">In this paper we propose a blind dual watermarking scheme using Set Partitioning
+abstract: In this paper we propose a blind dual watermarking scheme using Set Partitioning
   in Hierarchical Trees (SPIHT) and Stucki Kernel halftone technique for the tamper
   detection and image self-recovery. The watermark consists of authentication bits
   for tampering area location and recovery bits for image restoration. We generate
@@ -28,7 +28,7 @@ abstract: <div class="justify-align">In this paper we propose a blind dual water
   of the watermarked image. Experiments have been conducted on two datasets, BOW2
   and USC-SIPI, and results show that the proposed scheme can achieve high restoration
   quality. Comparison with the existing works demonstrate the good performance and
-  superiority of the proposed scheme.</div>
+  superiority of the proposed scheme.
 tags:
 - Kernel
 - Image coding

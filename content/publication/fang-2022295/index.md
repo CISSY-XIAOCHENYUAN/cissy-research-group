@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *Future Generation Computer Systems*  [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.future.2021.08.020
-abstract: <div class="justify-align">In Industrial Internet of Things (IIoT) systems, the intelligent devices
+abstract: In Industrial Internet of Things (IIoT) systems, the intelligent devices
   are vulnerable to be attacked by weak Electromagnetic Interference (EMI), thereby
   threatening the security of the systems. Therefore, it is of great significance
   to investigate the weak EMI attack of IIoT systems. The different manufacturing
@@ -38,7 +38,7 @@ abstract: <div class="justify-align">In Industrial Internet of Things (IIoT) sys
   Short-Term Memory (LSTM) to improve the detection accuracy. Finally, an edge computing
   framework is proposed to enhance the efficiency of the method. The experimental
   results show that the detection accuracy and the efficiency of the proposed method
-  are 5.2% and 42.2% higher than those of the state-of-the-art method, respectively.</div>
+  are 5.2% and 42.2% higher than those of the state-of-the-art method, respectively.
 tags:
 - Edge computing
 - EMI attack

@@ -12,7 +12,7 @@ publication_types:
 - article-journal
 publication: "in *Multimedia Tools and Applications* [SCI, JCR Q2]"
 doi: 10.1007/s11042-022-14125-y
-abstract: <div class="justify-align">As a special way of hiding information, reversible data hiding is mostly
+abstract: As a special way of hiding information, reversible data hiding is mostly
   used to embed data into digital multimedia. The original multimedia and embedded
   data can be restored from the watermarked one without any loss. Being different
   from the traditional reversible data hiding methods, the gray scale-invariant reversible
@@ -30,7 +30,7 @@ abstract: <div class="justify-align">As a special way of hiding information, rev
   image. At the same time, the selection of feature points can meet certain conditions
   and get more suitable regions for information embedding. Experimental results show
   that the proposed scheme can extend the capacity efficiently while keep the characteristic
-  of grayscale invariance.</div>
+  of grayscale invariance.
 links:
 - name: URL
   url: https://doi.org/10.1007/s11042-022-14125-y
