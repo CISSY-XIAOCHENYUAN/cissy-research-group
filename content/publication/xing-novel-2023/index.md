@@ -7,13 +7,19 @@ authors:
 - admin
 - Guoheng Huang
 - Penousal Machado
+author_notes:
+- ""
+- ""
+- "corresponding author"
+- ""
+- ""
 date: '2023-12-01'
 publishDate: '2024-01-14T10:58:41.085626Z'
 publication_types:
 - article-journal
 publication: 'in *Journal of King Saud University - Computer and Information Sciences* [SCI,JCR Q1]'
 doi: 10.1016/j.jksuci.2023.101818
-abstract: This paper proposes a novel geometrically invariant quantum watermarking
+abstract: <div class="justify-align">This paper proposes a novel geometrically invariant quantum watermarking
   scheme using Quantum Error Correction (QEC) and Novel Enhanced Quantum Image Representation
   (NEQR). The Geometric Transformationbased Image Assembling (GTA) mechanism is proposed
   to reconstruct the quantum watermark image utilizing QEC principle. The proposed
@@ -29,7 +35,7 @@ abstract: This paper proposes a novel geometrically invariant quantum watermarki
   at a density of 0.05, while at a density of 0.1, the average improvement is 11.13%
   and 12.05% respectively. Moreover, to the best of our knowledge, this is one of
   the first quantum watermarking scheme which demonstrates resistance to geometric
-  attacks.
+  attacks.</div>
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1319157823003725

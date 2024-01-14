@@ -14,7 +14,8 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Circuits and Systems for Video Technology* [SCI,JCR Q1]"
 doi: 10.1109/TCSVT.2022.3223150
-abstract: Few-shot segmentation (FSS) aims to segment unseen classes given only a
+abstract: <div class="justify-align">
+  Few-shot segmentation (FSS) aims to segment unseen classes given only a
   few annotated samples. Encouraging progress has been made for FSS by leveraging
   semantic features learned from base classes with sufﬁcient training samples to represent
   novel classes. The correlation-based methods lack the ability to consider interaction
@@ -29,7 +30,7 @@ abstract: Few-shot segmentation (FSS) aims to segment unseen classes given only 
   the external relations of query subspace when considering the hidden relationship
   of the support sub-dimension in the quaternion space. Extensive experiments on the
   PASCAL-5i and COCO-20i datasets demonstrate that our method outperforms the existing
-  state-of-the-art methods effectively.
+  state-of-the-art methods effectively.</div>
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9954424/
