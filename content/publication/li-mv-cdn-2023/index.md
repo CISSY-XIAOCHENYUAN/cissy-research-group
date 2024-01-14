@@ -2,8 +2,8 @@
 title: 'MV-CDN: Multi-Visual Collaborative Deep Network for Change Detection of Double-Temporal
   Hyperspectral Images'
 authors:
-- Jinlong Li
-- Xiaochen Yuan
+- admin-JinlongLi
+- admin
 - Jinfeng Li
 - Guoheng Huang
 - Li Feng
@@ -12,7 +12,7 @@ date: '2023-01-01'
 publishDate: '2024-01-14T10:18:31.799017Z'
 publication_types:
 - article-journal
-publication: '*Remote Sensing*'
+publication: 'in *Remote Sensing* [JCR Q1]'
 doi: 10.3390/rs15112834
 abstract: Since individual neural networks have limited deep expressiveness and effectiveness,
   many learning frameworks face difficulties in the availability and balance of sample
