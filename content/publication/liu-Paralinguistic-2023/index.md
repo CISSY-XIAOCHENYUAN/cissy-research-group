@@ -2,17 +2,13 @@
 title: Paralinguistic and spectral feature extraction for speech emotion classification
   using machine learning techniques
 authors:
-- admin-TongLiu
-- admin
-author_notes:
-- ""
-- "corresponding author"
+- Tong Liu
+- Xiaochen Yuan
 date: '2023-05-01'
-publishDate: '2024-01-12T13:25:46.965262Z'
+publishDate: '2024-01-14T10:18:31.806923Z'
 publication_types:
 - article-journal
-publication: "in *EURASIP Journal on Audio, Speech, and Music Processing*  [SCI, JCR Q2]"
-url_pdf: "https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-023-00290-x"
+publication: '*EURASIP Journal on Audio, Speech, and Music Processing*'
 doi: 10.1186/s13636-023-00290-x
 abstract: Abstract Emotion plays a dominant role in speech. The same utterance with
   different emotions can lead to a completely different meaning. The ability to perform

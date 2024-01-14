@@ -1,25 +1,18 @@
 ---
 title: 'SCDet: decoupling discriminative representation for dark object detection
   via supervised contrastive learning'
-authors: 
-- "Tongxu Lin"
-- "Guoheng Huang"
-- "admin"
-- "Guo Zhong"
-- "Xiaocong Huang"
-- "Chi-Man Pun"
-author_notes:
-- ""
-- "corresponding author"
-- "corresponding author"
-- ""
-- ""
-- ""
+authors:
+- Tongxu Lin
+- Guoheng Huang
+- Xiaochen Yuan
+- Guo Zhong
+- Xiaocong Huang
+- Chi-Man Pun
 date: '2023-08-01'
-publishDate: '2024-01-12T13:25:46.927107Z'
+publishDate: '2024-01-14T10:18:31.779935Z'
 publication_types:
 - article-journal
-publication: "in *Visual Computer* [SCI,JCR Q2]"
+publication: '*The Visual Computer*'
 doi: 10.1007/s00371-023-03039-x
 abstract: 'Despite the significant progress made in object detection algorithms, their
   potential to operate effectively under the low-light environment remains to be fully
