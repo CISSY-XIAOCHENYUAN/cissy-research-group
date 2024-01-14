@@ -5,13 +5,13 @@ authors:
 - Bowie Liu
 - Chan-Tong Lam
 - Benjamin K. Ng
-- Xiaochen Yuan
+- admin
 - Sio Kei Im
 date: '2024-01-01'
 publishDate: '2024-01-14T10:58:41.093379Z'
 publication_types:
 - article-journal
-publication: '*IEEE Access*'
+publication: 'in *IEEE Access* [SCI,JCR Q2]'
 doi: 10.1109/ACCESS.2023.3349034
 abstract: 'Many countries across the globe face the serious issue of traffic congestion.
   This paper presents a low-cost graph-based traffic forecasting and congestion detection
