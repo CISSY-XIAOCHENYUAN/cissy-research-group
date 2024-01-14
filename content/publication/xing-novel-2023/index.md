@@ -4,14 +4,14 @@ title: A novel geometrically invariant quantum watermarking scheme utilizing Qua
 authors:
 - Zheng Xing
 - Chan-Tong Lam
-- Xiaochen Yuan
+- admin
 - Guoheng Huang
 - Penousal Machado
 date: '2023-12-01'
 publishDate: '2024-01-14T10:18:31.835474Z'
 publication_types:
 - article-journal
-publication: '*Journal of King Saud University - Computer and Information Sciences*'
+publication: 'in *Journal of King Saud University - Computer and Information Sciences* [SCI,JCR Q1]'
 doi: 10.1016/j.jksuci.2023.101818
 abstract: This paper proposes a novel geometrically invariant quantum watermarking
   scheme using Quantum Error Correction (QEC) and Novel Enhanced Quantum Image Representation
