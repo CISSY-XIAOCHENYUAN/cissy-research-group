@@ -17,7 +17,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2020.2987914
-abstract: In this paper, a new Quaternion Discrete Fourier Transform (QDFT)-based
+abstract: <div class="justify-align">In this paper, a new Quaternion Discrete Fourier Transform (QDFT)-based
   digital color image watermarking method is presented. In addition, the Quaternion
   QR (QQR) decomposition is applied in digital watermarking technology for the first
   time. First of all, the QDFT and QQR decomposition are performed on the host image,
@@ -29,7 +29,7 @@ abstract: In this paper, a new Quaternion Discrete Fourier Transform (QDFT)-base
   method. We conducted a large number of tests and experimental results indicate that
   the presented approach obtains excellent robustness against Scaling, Rotation, Median
   filtering, `Salt & Pepper' noise, and JPEG Compression. Compared with the existing
-  methods, the presented method achieves better performance.
+  methods, the presented method achieves better performance.</div>
 tags:
 - Watermarking
 - Transforms

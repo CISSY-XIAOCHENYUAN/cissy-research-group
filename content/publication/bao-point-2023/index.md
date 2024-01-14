@@ -18,7 +18,7 @@ publication_types:
 - article-journal
 publication: "in *Remote Sensing* [JCR Q1]"
 doi: 10.3390/rs15020497
-abstract: The mainstream image matching method for recovering the motion of the camera
+abstract: <div class="justify-align">The mainstream image matching method for recovering the motion of the camera
   is based on local feature matching, which faces the challenges of rotation, illumination,
   and the presence of dynamic objects. In addition, local feature matching relies
   on the distance between descriptors, which easily leads to lots of mismatches. In
@@ -39,7 +39,7 @@ abstract: The mainstream image matching method for recovering the motion of the 
   average, respectively, and the M.Score has also been improved by 25.15%, 23.05%,
   22.28%, and 11.05% on average, respectively. The results show that the IM_CPE can
   be combined with the existing key points extraction algorithms and the IM_CPE can
-  significantly improve the performance of these key points algorithms.
+  significantly improve the performance of these key points algorithms.</div>
 tags:
 - camera pose estimation
 - image matching

@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: "in *Information Sciences* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.ins.2014.11.040
-abstract: A novel digital audio watermarking scheme based on robust Mel-Frequency
+abstract: <div class="justify-align">A novel digital audio watermarking scheme based on robust Mel-Frequency
   Cepstral coefficients feature detection and dual-tree complex wavelet transform
   is proposed in this paper, which is similar as patchwork based methods that several
   segments are extracted from the host audio clip for watermarking use. The robust
@@ -30,7 +30,7 @@ abstract: A novel digital audio watermarking scheme based on robust Mel-Frequenc
   and geometric distortions, such as resample Time-Scale Modification (TSM), pitch
   invariant TSM, and tempo invariant pitch shifting. In addition, the proposed audio
   watermarking scheme is resilient to Stir-mark for Audio, and it performs much better
-  comparing with the existing state-of-the art methods.
+  comparing with the existing state-of-the art methods.</div>
 tags:
 - Dual-Tree Complex Wavelet Transform (DT CWT)
 - Mel-Frequency Cepstral Coefficients

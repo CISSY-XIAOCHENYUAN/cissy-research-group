@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: "in *Journal of King Saud University Computer and Information Sciences* [SCI, JCR Q1]"
 doi: 10.1016/j.jksuci.2023.101795
-abstract: In this paper, we propose a novel Comprehensive-Monitoring-Motivated Multi-model
+abstract: <div class="justify-align">In this paper, we propose a novel Comprehensive-Monitoring-Motivated Multi-model
   Watermarking (C3MW) Scheme for tampering region localization and self-recovery for
   4K images. To generate the Comprehensive-Monitoring-Motivated Multi-model (C3M)
   Watermark, the MultiModel Authentication Bits Generation (MMAG) method and the Adaptive
@@ -30,7 +30,7 @@ abstract: In this paper, we propose a novel Comprehensive-Monitoring-Motivated M
   Dataset. Comparisons with existing state-of-the-art works have been performed on
   the BOWS2 dataset, and our scheme improves the precision and F1 Score by 7.27% and
   3.30%, respectively. It is clear from these results that our method has a better
-  performance than others.
+  performance than others.</div>
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S131915782300349X

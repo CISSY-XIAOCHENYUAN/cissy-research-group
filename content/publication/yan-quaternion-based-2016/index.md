@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"
 doi: 10.1109/TIFS.2016.2594136
-abstract: Image-hashing-based tampering detection methods have been widely studied
+abstract: <div class="justify-align">Image-hashing-based tampering detection methods have been widely studied
   with continuous advancements. However, most of existing models are designed for
   a specific tampering. In this paper, we propose a novel quaternion-based image hashing
   to detect almost all types of tampering, including color changing, copy move, splicing,
@@ -25,7 +25,7 @@ abstract: Image-hashing-based tampering detection methods have been widely studi
   algorithm is proposed based on clustering analysis to improve the detection accuracy.
   The experimental results show that the proposed tampering detection model outperforms
   the existing state-of-the-art models and is very robust against various content-preserving
-  attacks.
+  attacks.</div>
 tags:
 - Feature extraction
 - Image color analysis

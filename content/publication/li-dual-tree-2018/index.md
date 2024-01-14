@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2018.2876233
-abstract: This paper presents a local audio watermarking method based on the dual-tree
+abstract: <div class="justify-align">This paper presents a local audio watermarking method based on the dual-tree
   complex wavelet transform (DT CWT) and distortion-compensated dither modulation
   (DC-DM). Specifically, we perform DT CWT on extracted audio segment, and embed the
   watermark signal in the decomposed low-pass coefficients. During the embedding process,
@@ -26,7 +26,7 @@ abstract: This paper presents a local audio watermarking method based on the dua
   the watermark signal. Experimental results show that the proposed method is robust
   against common signal processing attacks and de-synchronization attacks, such as
   re-quantization, resampling, MP3 compression, cropping, and so on. Comparisons with
-  the existing methods also show the superiority of our proposed method.
+  the existing methods also show the superiority of our proposed method.</div>
 tags:
 - Watermarking
 - Discrete wavelet transforms

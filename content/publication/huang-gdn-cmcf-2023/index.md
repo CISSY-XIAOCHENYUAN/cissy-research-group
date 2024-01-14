@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: 'in *IEEE Transactions on Computational Social Systems* [SCI, JCR Q1]'
 doi: 10.1109/TCSS.2023.3323402
-abstract: Multimodal named entity recognition (MNER) is a crucial task in social systems
+abstract: <div class="justify-align">Multimodal named entity recognition (MNER) is a crucial task in social systems
   of artificial intelligence that requires precise identification of named entities
   in sentences using both visual and textual information. Previous methods have focused
   on capturing fine-grained visual features and developing complex fusion procedures.
@@ -29,7 +29,7 @@ abstract: Multimodal named entity recognition (MNER) is a crucial task in social
   and auxiliary modalities, which further filters out extraneous information while
   retaining the uniqueness of unimodal features. Experimental results on two real
   public datasets are provided to verify the effectiveness of our proposed GDN-CMCF.
-  The source code of this article can be found at https://github.com/HaoDavis/ GDN-CMCF.
+  The source code of this article can be found at https://github.com/HaoDavis/ GDN-CMCF.</div>
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10286520

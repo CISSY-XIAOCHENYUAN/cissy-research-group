@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: 'in *Physics in Medicine & Biology* [SCI, JCR Q2]'
 doi: 10.1088/1361-6560/ace1cf
-abstract: Objective. Due to the blurry edges and uneven shape of breast tumors, breast
+abstract: <div class="justify-align">Objective. Due to the blurry edges and uneven shape of breast tumors, breast
   tumor segmentation can be a challenging task. Recently, deep convolution networks
   based approaches achieve satisfying segmentation results. However, the learned shape
   information of breast tumors might be lost owing to the successive convolution and
@@ -34,7 +34,7 @@ abstract: Objective. Due to the blurry edges and uneven shape of breast tumors, 
   dataset demonstrate the effectiveness of the SGS compared to other advanced methods.
   Significance. We propose a united framework to encourage existing segmentation networks
   to improve breast tumor segmentation by prior shape information. The source code
-  will be made available at https://github.com/TxLin7/Shape-Seg.
+  will be made available at https://github.com/TxLin7/Shape-Seg.</div>
 links:
 - name: URL
   url: https://dx.doi.org/10.1088/1361-6560/ace1cf

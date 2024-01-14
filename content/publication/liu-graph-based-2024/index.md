@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: 'in *IEEE Access* [SCI,JCR Q2]'
 doi: 10.1109/ACCESS.2023.3349034
-abstract: 'Many countries across the globe face the serious issue of traffic congestion.
+abstract: <div class="justify-align">Many countries across the globe face the serious issue of traffic congestion.
   This paper presents a low-cost graph-based traffic forecasting and congestion detection
   framework using online images from multiple cameras. The advantage of using a graph
   neural network (GNN) for traffic forecasting and detection is that it represents
@@ -29,7 +29,7 @@ abstract: 'Many countries across the globe face the serious issue of traffic con
   dataset. We also propose a threshold-based method for detecting traffic congestion
   using traffic volume and image-based traffic occupancy. This framework provides
   a low-cost solution for traffic forecasting and congestion detection when only surveillance
-  images are available.'
+  images are available.</div>
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10379075

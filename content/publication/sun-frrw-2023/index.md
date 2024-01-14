@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *Journal of King Saud University Computer and Information Sciences* [SCI, JCR Q1]"
 doi: 10.1016/j.jksuci.2023.101698
-abstract: This paper introduces a feature extraction-based approach to ensure both
+abstract: <div class="justify-align">This paper introduces a feature extraction-based approach to ensure both
   robustness and reversibility of image. Low-order Zernike moments are utilized to
   embed a robust binary image as a watermark, which is used for information authentication.
   A reversible watermark is embedded outside the robust watermark regions and is employed
@@ -37,7 +37,7 @@ abstract: This paper introduces a feature extraction-based approach to ensure bo
   can recover the original image with no attacks. The results from the experiments
   indicate that the suggested method is resilient to geometric deformations, involving
   scaling and rotation, along with typical signal manipulation attacks, including
-  noisebased attacks.
+  noisebased attacks.</div>
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1319157823002525

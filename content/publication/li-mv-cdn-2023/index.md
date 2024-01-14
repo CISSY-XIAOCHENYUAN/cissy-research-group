@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *Remote Sensing*  [SCI, JCR Q1]"
 doi: 10.3390/rs15112834
-abstract: Since individual neural networks have limited deep expressiveness and effectiveness,
+abstract: <div class="justify-align">Since individual neural networks have limited deep expressiveness and effectiveness,
   many learning frameworks face difficulties in the availability and balance of sample
   selection. As a result, in change detection, it is difficult to upgrade the hit
   rate of a high-performance model on both positive and negative pixels. Therefore,
@@ -36,7 +36,7 @@ abstract: Since individual neural networks have limited deep expressiveness and 
   hyperspectral images taken by the AVIRIS and HYPERION sensors to show the feasibility
   of the proposed schema. The comparison results have confirmed that our proposed
   schema outperforms the existing state-of-the-art algorithms on the three tested
-  datasets, which demonstrates the broad adaptability and progressiveness of the proposal.
+  datasets, which demonstrates the broad adaptability and progressiveness of the proposal.</div>
 tags:
 - changed sensitivity network
 - collaborative network member

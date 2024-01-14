@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *Visual Computer* [SCI,JCR Q2]"
 doi: 10.1007/s00371-023-03039-x
-abstract: 'Despite the significant progress made in object detection algorithms, their
+abstract: <div class="justify-align">Despite the significant progress made in object detection algorithms, their
   potential to operate effectively under the low-light environment remains to be fully
   explored. Recent methods realize dark object detection on the entire representation
   of dark images; however, they do not further consider the potential entanglement
@@ -41,7 +41,7 @@ abstract: 'Despite the significant progress made in object detection algorithms,
   As a result, the SCDet achieves dark object detection by decoding the decoupled
   discriminative representation of dark images. Extensive experiments on four datasets
   demonstrate the effectiveness of our method in both synthetic and real-world scenarios.
-  Code is available at https://github.com/TxLin7/SCDet.'
+  Code is available at https://github.com/TxLin7/SCDet.</div>
 tags:
 - Dark object detection
 - Low-light environment

@@ -12,7 +12,7 @@ publication_types:
 - article-journal
 publication: "in *Signal Processing* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.sigpro.2018.03.007
-abstract: This paper proposes a local multi-watermarking method based on robust and
+abstract: <div class="justify-align">This paper proposes a local multi-watermarking method based on robust and
   adaptive feature extraction. The Robust and Adaptive Feature Detector based on DAISY
   Descriptor (RAF3D) is proposed to extract the feature regions of high robustness
   and stability. The multi-watermarking method is proposed to embed the multiple watermarks
@@ -26,7 +26,7 @@ abstract: This paper proposes a local multi-watermarking method based on robust 
   image. Extensive experiments are conducted to evaluate the performance of the proposed
   scheme and the comparison with several existing methods demonstrate that the proposed
   scheme outperforms the existing methods in terms of the robustness against various
-  attacks.
+  attacks.</div>
 tags:
 - Gram–Schmidt process
 - Local multi-watermarking

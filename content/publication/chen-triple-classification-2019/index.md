@@ -19,7 +19,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2019.2903859
-abstract: Digital respiratory sounds provide valuable information for telemedicine
+abstract: <div class="justify-align">Digital respiratory sounds provide valuable information for telemedicine
   and smart diagnosis in an non-invasive way of pathological detection. As the typical
   continuous abnormal respiratory sound, wheeze is clinically correlated with asthma
   or chronic obstructive lung diseases. Meanwhile, the discontinuous adventitious
@@ -41,7 +41,7 @@ abstract: Digital respiratory sounds provide valuable information for telemedici
   up to 98.79%, 96.27% and 100%, respectively. The comparison results of the triple-classification
   of respiratory sounds indicate that the proposed method outperforms the deep-learning-based
   ensembling convolutional neural network (CNN) by 3.23% and the empirical mode decomposition-based
-  artificial neural network (ANN) by 4.63%, respectively.
+  artificial neural network (ANN) by 4.63%, respectively.</div>
 tags:
 - Feature extraction
 - Training

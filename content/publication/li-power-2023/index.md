@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: 'in *Neurocomputing* [SCI,JCR Q1]'
 doi: 10.1016/j.neucom.2022.11.001
-abstract: Deep Neural Networks (DNNs) have developed rapidly in data privacy protection
+abstract: <div class="justify-align">Deep Neural Networks (DNNs) have developed rapidly in data privacy protection
   applications such as medical treatment and ﬁnance. However, DNNs require high-speed
   and high-memory computers in terms of computation, otherwise training can be very
   lengthy. Furthermore, DNNs are often not available in resource-constrained mobile
@@ -29,7 +29,7 @@ abstract: Deep Neural Networks (DNNs) have developed rapidly in data privacy pro
   the data into the orthogonal spaces, the proposed method ensures the independent
   extraction of the multiple data. In line with the performance analysis, the superiority
   of the presented scheme is elaborated through making the comparison with the current
-  state-of-the-art methods.
+  state-of-the-art methods.</div>
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0925231222013741

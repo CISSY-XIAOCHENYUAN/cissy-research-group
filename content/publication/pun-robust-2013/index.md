@@ -9,7 +9,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Audio, Speech, and Language Processing* [SCI, JCR Q2]"
 doi: 10.1109/TASL.2013.2279312
-abstract: A robust feature points detector for invariant audio watermarking is proposed
+abstract: <div class="justify-align">A robust feature points detector for invariant audio watermarking is proposed
   in this paper. The audio segments centering at the detected feature points are extracted
   for both watermark embedding and extraction. These feature points are invariant
   to various attacks and will not be changed much for maintaining high auditory quality.
@@ -25,7 +25,7 @@ abstract: A robust feature points detector for invariant audio watermarking is p
   up to ±50%, pitch invariant TSM by ±50%, and tempo invariant pitch shifting by ±50%.
   In general, the proposed scheme can well resist various attacks by the joint RASE
   and SWT approach, which performs much better comparing with the existing state-of-the
-  art methods.
+  art methods.</div>
 tags:
 - Feature extraction
 - Robustness

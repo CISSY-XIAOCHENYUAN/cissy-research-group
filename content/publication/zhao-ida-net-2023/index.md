@@ -27,7 +27,7 @@ publication_types:
 - article-journal
 publication: "in *Biomedical Signal Processing and Control* [SCIE, JCR Q2]"
 doi: 10.1016/j.bspc.2023.104787
-abstract: To precisely diagnose neurological diseases, such as Alzheimer’s disease,
+abstract: <div class="justify-align">To precisely diagnose neurological diseases, such as Alzheimer’s disease,
   clinicians need to observe the microstructural changes of local brain atrophy with
   the help of structural magnetic resonance image (sMRI). Some Convolutional Neural
   Networks (CNNs) have recently achieved excellent performance in auxiliary clinicians
@@ -48,7 +48,7 @@ abstract: To precisely diagnose neurological diseases, such as Alzheimer’s dis
   in the clinical diagnosis. Our proposed IDA-Net method is evaluated on the sMRI
   of 2813 subjects from ADNI and AIBL datasets. The results show that our IDA-Net
   method behaves better than several state-of-the-art methods in classification performance
-  and model generalization.
+  and model generalization.</div>
 tags:
 - Deep learning
 - Alzheimer’s Disease Diagnosis

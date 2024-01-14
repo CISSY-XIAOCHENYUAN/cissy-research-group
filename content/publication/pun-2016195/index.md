@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: "in *Journal of Visual Communication and Image Representation*  [SCI, JCR Q2]"
 doi: https://doi.org/10.1016/j.jvcir.2016.03.005
-abstract: Noise discrepancies in multiple scales are utilized as indicators for image
+abstract: <div class="justify-align">Noise discrepancies in multiple scales are utilized as indicators for image
   splicing forgery detection in this paper. Specifically, the test image is initially
   segmented into superpixels of multiple scales. In each individual scale, noise level
   function, which reflects the relation between noise level and brightness of each
@@ -22,7 +22,7 @@ abstract: Noise discrepancies in multiple scales are utilized as indicators for 
   for training the optimal parameters and to evaluate the proposed scheme, respectively.
   The experimental results show that the proposed scheme is effective, especially
   for the multi-objects splicing. In addition, the proposed scheme is proven to be
-  superior to the existing state-of-the-art method.
+  superior to the existing state-of-the-art method.</div>
 tags:
 - Multi-scale noise estimation
 - Noise level function

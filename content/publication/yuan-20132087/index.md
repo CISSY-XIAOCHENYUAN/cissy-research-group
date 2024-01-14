@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: 'in *Signal Processing* [SCI, JCR Q2]'
 doi: https://doi.org/10.1016/j.sigpro.2013.01.024
-abstract: A novel digital image watermarking scheme based on feature extraction and
+abstract: <div class="justify-align">A novel digital image watermarking scheme based on feature extraction and
   local Zernike transform is proposed in this paper. We proposed a local Zernike moments
   based watermarking scheme where the watermarked image/region can be obtained directly
   by inverse Zernike Transform. An edge-based feature detector is proposed for local
@@ -21,7 +21,7 @@ abstract: A novel digital image watermarking scheme based on feature extraction 
   and modified to embed the watermarks. Experimental results show that the proposed
   watermarking scheme is very robust against geometric distortion such as rotation,
   scaling, cropping, and affine transformation; and common signal processing such
-  as JPEG compression, median filtering, and low-pass Gaussian filtering.
+  as JPEG compression, median filtering, and low-pass Gaussian filtering.</div>
 tags:
 - Feature extraction
 - Edge-based feature detector

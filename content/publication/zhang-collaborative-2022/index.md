@@ -18,7 +18,7 @@ publication_types:
 - article-journal
 publication: "in *Physics in Medicine & Biology* [SCI, JCR Q1]"
 doi: 10.1088/1361-6560/ac95f5
-abstract: Objective. In recent years, methods based on U-shaped structure and skip
+abstract: <div class="justify-align">Objective. In recent years, methods based on U-shaped structure and skip
   connection have achieved remarkable results in many medical semantic segmentation
   tasks. However, the information integration capability of this structure is still
   limited due to the incompatibility of feature maps of encoding and decoding stages
@@ -43,7 +43,7 @@ abstract: Objective. In recent years, methods based on U-shaped structure and sk
   solves the problem mentioned above and improved segmentation accuracy for non-obvious,
   small and blurred-edge targets. Meanwhile, the proposed visualization method Edge-PIM
   can make the edge more prominent, which can assist medical radiologists in their
-  research work well.
+  research work well.</div>
 links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/1361-6560/ac95f5

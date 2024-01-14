@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Circuits and Systems for Video Technology* [SCI, JCR Q1]"
 doi: 10.1109/TCSVT.2020.3032455
-abstract: This article proposes an adaptive scheme for image tampered region localization
+abstract: <div class="justify-align">This article proposes an adaptive scheme for image tampered region localization
   and content recovery. To generate the watermark information comprised of the authentication
   data and recovery data, we firstly propose the Adaptive Authentication Feature Calculation
   algorithm to obtain the authentication data, which includes the information of block
@@ -28,7 +28,7 @@ abstract: This article proposes an adaptive scheme for image tampered region loc
   in terms of tamper detection and image recovery, by comparing with the state-of-the-art
   works. The results demonstrate that the proposed method shows efficiency in the
   adaptiveness, well localization, strong capability for image recovery, and the effectiveness
-  of attack resistance.
+  of attack resistance.</div>
 tags:
 - Image coding
 - Watermarking

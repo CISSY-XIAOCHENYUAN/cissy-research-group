@@ -20,7 +20,7 @@ publication_types:
 - article-journal
 publication: "in *Physics in Medicine & Biology* [SCIE, JCR Q2]"
 doi: 10.1088/1361-6560/acc002
-abstract: Objective. In the field of endoscopic imaging, Super-Resolution (SR) plays
+abstract: <div class="justify-align">Objective. In the field of endoscopic imaging, Super-Resolution (SR) plays
   an important role in Manufactured Diagnosis, physicians and machine Automatic Diagnosis.
   Although many recent studies have been performed, by using deep convolutional neural
   networks on endoscopic Super-Resolution, most of the methods have large parameters,
@@ -41,7 +41,7 @@ abstract: Objective. In the field of endoscopic imaging, Super-Resolution (SR) p
   importantly, the proposed QAMWN outperforms previous state-of-the-art methods in
   both metrics and visualization. Significance. We propose a lightweight super-resolution
   network for endoscopy and achieves better performance with fewer parameters, which
-  helps in clinical diagnosis of endoscopy.
+  helps in clinical diagnosis of endoscopy.</div>
 links:
 - name: URL
   url: http://iopscience.iop.org/article/10.1088/1361-6560/acc002

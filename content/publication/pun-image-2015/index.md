@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"
 doi: 10.1109/TIFS.2015.2423261
-abstract: A novel copy-move forgery detection scheme using adaptive oversegmentation
+abstract: <div class="justify-align">A novel copy-move forgery detection scheme using adaptive oversegmentation
   and feature point matching is proposed in this paper. The proposed scheme integrates
   both block-based and keypoint-based forgery detection methods. First, the proposed
   adaptive oversegmentation algorithm segments the host image into nonoverlapping
@@ -25,7 +25,7 @@ abstract: A novel copy-move forgery detection scheme using adaptive oversegmenta
   generate the detected forgery regions. The experimental results indicate that the
   proposed copy-move forgery detection scheme can achieve much better detection results
   even under various challenging conditions compared with the existing state-of-the-art
-  copy-move forgery detection methods.
+  copy-move forgery detection methods.</div>
 tags:
 - Forgery
 - Digital images

@@ -20,7 +20,7 @@ publication_types:
 - article-journal
 publication: 'in *Knowledge-Based Systems* [SCI,JCR Q1]'
 doi: 10.1016/j.knosys.2023.111277
-abstract: Most current style transfer models are designed as encoder–decoder structures.
+abstract: <div class="justify-align">Most current style transfer models are designed as encoder–decoder structures.
   Some encoding operations, such as downsampling and pooling, cause a loss of image
   details. If the encoder and decoder are not compatible, it can also introduce distortion.
   Reversible neural networks have demonstrated their superior power in lossless projection.
@@ -40,7 +40,7 @@ abstract: Most current style transfer models are designed as encoder–decoder s
   comparative experiments with seven other state-of-the-art algorithms. The stylized
   effects are evaluated in terms of visual effects and quantitative indicators. The
   experiments show that the lightest LSTFlow performs the best in SSIM, Color Entropy,
-  Color Uniformity and FID indicators and outperforms state-of-the-art methods.
+  Color Uniformity and FID indicators and outperforms state-of-the-art methods.</div>
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0950705123010250

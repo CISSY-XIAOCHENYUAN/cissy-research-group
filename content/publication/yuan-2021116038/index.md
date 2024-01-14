@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: "in *Signal Processing: Image Communication* [SCI, JCR Q2]"
 doi: https://doi.org/10.1016/j.image.2020.116038
-abstract: This paper proposes a novel Gauss–Jordan elimination-based image tampering
+abstract: <div class="justify-align">This paper proposes a novel Gauss–Jordan elimination-based image tampering
   detection and self-recovery scheme, aiming at dealing with the problem of malicious
   tampering on digital images. To deal with the copy–move tampering which is challenging
   because the tampered region may contain the watermark information, we propose the
@@ -34,7 +34,7 @@ abstract: This paper proposes a novel Gauss–Jordan elimination-based image tam
   recovery. The comparisons with the state-of-the-art methods show that the proposed
   scheme shows the superiorities in terms of imperceptibility, security and recovery
   capability. The experimental result indicates the average PSNR of recovered image
-  is 44.415dB.
+  is 44.415dB.</div>
 tags:
 - Gauss–Jordan Elimination-Based Self-Recovery
 - Image tampering detection
