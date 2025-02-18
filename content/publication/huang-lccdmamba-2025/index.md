@@ -1,5 +1,5 @@
 ---
-title: '<div class="justify-align">LCCDMamba: Visual State Space Model for Land Cover Change Detection of VHR Remote Sensing Images</div>'
+title: 'LCCDMamba: Visual State Space Model for Land Cover Change Detection of VHR Remote Sensing Images'
 authors: 
 - admin-JunqingHuang
 - admin
