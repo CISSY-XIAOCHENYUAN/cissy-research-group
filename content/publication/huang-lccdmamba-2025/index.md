@@ -1,6 +1,5 @@
 ---
-title: 'LCCDMamba: Visual State Space Model for Land Cover Change Detection of VHR 
-  Remote Sensing Images'
+title: 'LCCDMamba: Visual State Space Model for Land Cover Change Detection of VHR Remote Sensing Images'
 authors: 
 - admin-JunqingHuang
 - admin
@@ -19,7 +18,7 @@ publication_types:
 - article-journal
 publication: "in *Remote Sensing*  [SCI, JCR Q1]"
 doi: https://doi.org/10.1109/JSTARS.2025.3531499
-abstract: 'Land cover change detection (LCCD) is a crucial research topic for 
+abstract: Land cover change detection (LCCD) is a crucial research topic for 
   rational planning of land use and facilitation of sustainable land resource growth.
   However, due to the complexity of LCCD tasks, integrating global and local 
   features and fusing contextual information from remote sensing features are 
@@ -41,13 +40,11 @@ abstract: 'Land cover change detection (LCCD) is a crucial research topic for
   various dimensions will not be lost during feature restoration. Experiments 
   have been conducted on WHU-CD, LEVIR-CD, and GVLM datasets, and the results 
   demonstrate that LCCDMamba achieves F1 scores of 94.18%, 91.68%, and 87.14%, 
-  respectively, outperforming all the models compared.'
+  respectively, outperforming all the models compared.
 tags:
-- Color Texture Descriptor
-- Copy–Move Forgery Detection (CMFD)
-- Hierarchical Feature Matching
-- Invariant Moment Descriptor
-- Multi-Level Dense Descriptor (MLDD)
+- Remote sensing
+- Land cover change detection
+- VHR images
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10845192
