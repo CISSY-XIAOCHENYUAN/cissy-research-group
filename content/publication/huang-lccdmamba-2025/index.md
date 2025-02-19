@@ -17,7 +17,7 @@ publishDate: ''
 publication_types:
 - article-journal
 publication: "in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  [SCI, JCR Q1]"
-doi: https://doi.org/10.1109/JSTARS.2025.3531499
+doi: 10.1109/JSTARS.2025.3531499
 abstract: <div class="justify-align">Land cover change detection (LCCD) is a crucial research topic for 
   rational planning of land use and facilitation of sustainable land resource growth.
   However, due to the complexity of LCCD tasks, integrating global and local 
