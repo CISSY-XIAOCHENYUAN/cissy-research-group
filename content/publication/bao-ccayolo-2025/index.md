@@ -15,7 +15,7 @@ authors_notes:
 - ""
 - ""
 date: '2025-01-01'
-publishDate: ''
+publishDate: '2025-02-12T13:02:34.179153Z'
 publication_types:
 - article-journal
 publication: "in *IEEE Transactions on Instrumentation and Measurement*  [SCI, JCR Q1]"
