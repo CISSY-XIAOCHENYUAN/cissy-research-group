@@ -1,11 +1,6 @@
 ---
 title: 'LCCDMamba: Visual State Space Model for Land Cover Change Detection of VHR Remote Sensing Images'
-authors: 
-- admin-JunqingHuang
-- admin
-- Chan-Tong Lam
-- Yapeng Wang
-- Min Xia
+authors: ["admin-JunqingHuang", "admin", "Chan-Tong Lam", "Yapeng Wang","Min Xia"]
 authors_notes:
 - ""
 - "corresponding author"
