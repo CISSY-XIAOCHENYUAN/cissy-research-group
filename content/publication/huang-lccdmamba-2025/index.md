@@ -12,8 +12,8 @@ authors_notes:
 - ""
 - ""
 - ""
-date: '2024-01-01'
-publishDate: '2025-01-20T14:03:34.121535Z'
+date: '2025-01-01'
+publishDate: ''
 publication_types:
 - article-journal
 publication: "in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  [SCI, JCR Q1]"
