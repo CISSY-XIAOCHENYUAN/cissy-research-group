@@ -1,13 +1,13 @@
 ---
-title: 'Visual-linguistic Diagnostic Semantic Enhancement for medical report generation'
+title: 'PFPS: Polymerized Feature Panoptic Segmentation Based on Fully Convolutional Networks'
 authors:
-- Jiahong Chen
-- Guoheng Huang
+- admin-ShuchengJi
 - admin
+- admin-JunqiBao
+- admin-TongLiu
+- Yang Lian
+- Guoheng Huang
 - Guo Zhong
-- Zhe Tan
-- Chi-Man Pun
-- Qi Yang
 author_notes:
 - ""
 - "corresponding author"
