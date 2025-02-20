@@ -23,14 +23,13 @@ publication_types:
 publication: 'in *IEEE Transactions on Emerging Topics in Computational Intelligence* [SCI,JCR Q2]'
 doi: 10.1109/TETCI.2024.3515004
 abstract: '<div class="justify-align">
- Generative methods are currently popular for medical report generation, as they automatically generate professional reports from input images, assisting physicians in making faster and more accurate decisions. However, current methods face significant challenges: 1) Lesion areas in medical images are often difficult for models to capture accurately, and 2) even when captured, these areas are frequently not described using precise clinical diagnostic terms. To address these problems, we propose a Visual-Linguistic Diagnostic Semantic Enhancement model (VLDSE) to generate high-quality reports. Our approach employs supervised contrastive learning in the Image and Report Semantic Consistency (IRSC) module to bridge the semantic gap between visual and linguistic features. Additionally, we design the Visual Semantic Qualification and Quantification (VSQQ) module and the Post-hoc Semantic Correction (PSC) module to enhance visual semantics and inter-word relationships, respectively. Experiments demonstrate that our model achieves promising performance on the publicly available IU X-RAY and MIMIC-MV datasets. Specifically, on the IU X-RAY dataset, our model achieves a BLEU-4 score of 18.6%, improving the baseline by 12.7%. On the MIMIC-MV dataset, our model improves the BLEU-1 score by 10.7% over the baseline. These results demonstrate the ability of our model to generate accurate and fluent descriptions of lesion areas.
+ Panoptic segmentation requires the prediction of a pixel-level mask with a category label in an image. In recent years, panoptic segmentation has been gaining more attention since it can help us understand objects and the environment in many fields, such as medical images, remote sensing images, and autonomous driving. However, existing panoptic segmentation methods are usually challenging for multi-scale object segmentation and boundary localization. In this paper, we propose a Polymerized Feature Panoptic Segmentation (PFPS) to enhance the network's feature representation ability by polymerizing the extracted stage features. Specifically, we propose a Generalization-Enhanced Stage Feature Generation Module (GSFGM) to extract and enhance the stage features. In the GSFGM, a novel Sampled and Concated Feature Generation (SCFG) is designed as an individual component, which polymerizes the convoluted backbone features to enhance multi-scale feature representation. Thereafter, we propose a Stage Feature Re-weight Module (SFRM) to ensure the network can learn efficient information from the massive channels. Moreover, we further propose a Unified Encoder Module (UEM) to provide spatial information and compress the high-dimensional features by coordinating convolution operations and channel attention. To demonstrate the superiority of the proposed PFPS, we conduct experiments on the COCO-2017 and the Cityscapes validation datasets. The experimental results indicate that the PFPS achieves a better performance in PQ of 43.0%, SQ of 80.4%, RQ of 51.9%, PQth of 48.6%, SQth of 82.6%, RQth of 58.1%, PQst of 34.6% on COCO-2017 validation dataset, while PQ of 61.7%, and PQst of 67.9% on Cityscapes validation dataset.
  </div>'
 tags:
-- Medical report generation
-- Contrastive learning
-- Semantic Enhancement
-- Semantic consistency
+- Feature extraction
+- Panoptic segmentation
+- Fully convolutional networks
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/abs/pii/S1532046424001825
+  url: https://ieeexplore.ieee.org/document/10807353
 ---
