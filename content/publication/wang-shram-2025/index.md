@@ -8,7 +8,7 @@ authors:
 - Tongxu Lin
 - Chi-Man Pun
 - Fenfang Xie
-authors_notes:
+author_notes:
 - ""
 - "corresponding author"
 - ""

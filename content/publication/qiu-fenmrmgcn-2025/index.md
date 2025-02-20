@@ -7,7 +7,7 @@ authors:
 - Benjamin K. Ng
 - admin
 - Sio-Kei Im
-authors_notes:
+author_notes:
 - ""
 - "corresponding author"
 - ""
