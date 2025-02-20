@@ -1,17 +1,15 @@
 ---
 title: 'CCA-YOLO: Channel and Coordinate Aware-based YOLO for Photovoltaic Cell Defect Detection in Electroluminescence Images'
 authors:
-- Qishen Yuan
-- Guoheng Huang
-- Guo Zhong
+- admin-JunqiBao
 - admin
-- Zhe Tan
-- Zeng Lu
-- Chi-Man Pun
+- Qingying Wu
+- Chan-Tong Lam
+- Wei Ke
+- Ping Li
 author_notes:
 - ""
 - "corresponding author"
-- ""
 - ""
 - ""
 - ""
