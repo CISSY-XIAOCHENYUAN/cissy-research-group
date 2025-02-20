@@ -1,33 +1,31 @@
 ---
-title: 'CCA-YOLO: Channel and Coordinate Aware-based YOLO for Photovoltaic Cell Defect Detection in Electroluminescence Images'
-authors: 
-- admin-JunqiBao
+title: Triangular Chain Closed-Loop Detection Network for Dense Pedestrian Detection
+authors:
+- Qishen Yuan
+- Guoheng Huang
+- Guo Zhong
 - admin
-- Qingying Wu
-- Chan-Tong Lam
-- Wei Ke
-- Ping Li
-authors_notes:
+- Zhe Tan
+- Zeng Lu
+- Chi-Man Pun
+author_notes:
 - ""
 - "corresponding author"
 - ""
 - ""
 - ""
 - ""
-date: '2025-01-01'
-publishDate: '2024-01-12T13:25:46.869356Z'
+- ""
+date: '2024-01-01'
+publishDate: '2024-01-12T13:25:46.877208Z'
 publication_types:
 - article-journal
-publication: 'in *IEEE Transactions on Instrumentation and Measurement*  [SCI, JCR Q1]'
-doi: 10.1109/TIM.2025.3541805
+publication: 'in *IEEE Transactions on Instrumentation and Measurement* [SCI,JCR Q1]'
+doi: 10.1109/TIM.2023.3341131
 abstract: <div class="justify-align">
-  Solar energy is a renewable energy used for urban powergeneration, contributing to sustainable cities. In solar energy generation, it is important to inspect the health of photovoltaic cells for safety and power transformation efficiency. Defects in photovoltaic cells are usually irregular with different scales, challenging automated defect detection for photovoltaic cells. Therefore, this paper presents a Channel and Coordinate Aware-based YOLO (CCA-YOLO) for efficient photovoltaic cell defect detection. Specifically, to provide accurate backbone features from the complex background defect images, the Residual Coordinate Convolution-based ECA (RCC-ECA) enhances the backbone feature representation by learning from channel and coordinate information. To learn the intraclass/interclass variations and interclass similarity and convey coordinate information among different scales, the Multi-scale Defect Localization Module (MDFLM) incorporates a larger backbone feature to improve the robustness to multi-scale defects. The RCC-Up/Down optimizes the sampled features to minimize the inaccurate representation of the features caused by the sampling process. In addition, RCC-Up/Down conveys the coordinate information during the up/down sampling process to maintain coordinate awareness, which allows the network to learn from the coordinate information efficiently. Furthermore, the Residual Feature Fusion with Coordinate Convolution-based CBAM (RFC-CBAM) is introduced to maintain the channel and coordinate awareness for efficient learning from fused features. The proposed CCA-YOLO outperforms state-of-the-art methods in PVEL-AD on Precision (71.71%), Recall (76.91%), F1-Scores (74.19%), mAP<sub>50</sub> (98.57%), AP<sub>S</sub> (26.80%), AP<sub>M</sub> (64.78%), and AP<sub>L</sub> (74.93%).
+  Pedestrian detection has become an important topic in applications such as automatic driver assistance systems for automobiles and pedestrian tracking in surveillance systems, and many powerful object detectors have been widely used in smart sensing instruments. In realistic scenarios, pedestrians in image data are prone to overlap, and detection of fully bracketed boxes may still tend to be false positives in crowded scenes. In addition, low-level parameters shared among features during detection can cause mutual cancellation, resulting in a pair or set of head-enveloping boxes or body-enveloping boxes returning incorrect results. To address the above problems, we propose a triangular chain closed-loop detection network to improve detection in the case of body overlap. We propose a shared parameter elimination module to eliminate the interaction of shared low-level parameters, which has the advantage of improving the feature representation of occluded pedestrians and increasing feature utilization. Because the head bounding box detection encounters fewer occlusions in the occlusion case, the detection capability is better. Therefore, we propose a bidirectional matching module and a chain linking module to enhance the detection capability of the full bounding box using the head bounding box. These modules can better distinguish pedestrians in our network by focusing on individual region features on the pedestrian body, and then learn more representative pedestrian features by minimizing the vector similarity of the whole body, visible region, and head features in space. Our model has been extensively experimented on two challenging dense pedestrian datasets, CrowdHuman and Citypersons. Compared with the experimental results, our method achieves the best performance, especially on heavily occluded subsets, compared with o other popular existing technical methods. This method achieved good results on the CrowdHuman dataset, with an averaged precision (AP) improvement ...
   </div>
-tags:
-- Defect detection
-- YOLO
-- Feature extraction
 links:
 - name: URL
-  url: https://ieeexplore.ieee.org/document/10884963
+  url: https://ieeexplore.ieee.org/document/10352356/
 ---
