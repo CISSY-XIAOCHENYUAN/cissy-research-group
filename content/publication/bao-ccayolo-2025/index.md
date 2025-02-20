@@ -1,5 +1,5 @@
 ---
-title: Triangular Chain Closed-Loop Detection Network for Dense Pedestrian Detection
+title: 'CCA-YOLO: Channel and Coordinate Aware-based YOLO for Photovoltaic Cell Defect Detection in Electroluminescence Images'
 authors:
 - Qishen Yuan
 - Guoheng Huang
