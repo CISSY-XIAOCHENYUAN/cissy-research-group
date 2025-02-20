@@ -1,6 +1,6 @@
 ---
 title: 'FEN-MRMGCN: A Frontend-Enhanced Network Based on Multi-Relational Modeling GCN for Bus Arrival Time Prediction'
-authors: 
+authors:
 - Ting Qiu
 - Chan-Tong Lam
 - Bowie Liu

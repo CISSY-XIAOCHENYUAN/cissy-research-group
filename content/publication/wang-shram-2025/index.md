@@ -1,6 +1,6 @@
 ---
-title: The Structure-sharing Hypergraph Reasoning Attention Module for CNNs
-authors: 
+title: 'The Structure-sharing Hypergraph Reasoning Attention Module for CNNs'
+authors:
 - Jingchao Wang
 - Guoheng Huang
 - admin
