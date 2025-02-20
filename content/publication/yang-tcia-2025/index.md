@@ -1,5 +1,5 @@
 ---
-title: 'FEN-MRMGCN: A Frontend-Enhanced Network Based on Multi-Relational Modeling GCN for Bus Arrival Time Prediction'
+title: 'TCIA: A Transformer-CNN Model With Illumination Adaptation for Enhancing Cell Image Saliency and Contrast'
 authors:
 - Jietao Yang
 - Guoheng Huang
