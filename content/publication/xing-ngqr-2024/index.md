@@ -1,7 +1,7 @@
 ---
 title: 'Image Manipulation Localization Using Dual-Shallow Feature Pyramid Fusion and Boundary Contextual Incoherence Enhancement'
 authors:
-- admin-ZhengXing
+- Zheng Xing
 - admin
 - Chan-Tong Lam
 - Penousal Machado
