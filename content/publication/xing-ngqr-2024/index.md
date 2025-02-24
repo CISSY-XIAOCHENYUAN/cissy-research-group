@@ -1,5 +1,5 @@
 ---
-title: 'Image Manipulation Localization Using Dual-Shallow Feature Pyramid Fusion and Boundary Contextual Incoherence Enhancement'
+title: 'NGQR: A Novel Generalized Quantum Image Representation'
 authors:
 - Zheng Xing
 - admin
