@@ -1,7 +1,7 @@
 ---
 title: 'Recognition of Score Words in Freestyle Kayaking Using Improved DTW Matching'
 authors:
-- Qiyuan Zhang
+- admin-QiyuanZhang
 - admin
 - Chan-Tong Lam
 author_notes:
