@@ -12,7 +12,7 @@ authors:
 - Yingping Huang
 author_notes:
 - ""
-- "corresponding author"
+- ""
 - ""
 - ""
 - ""
