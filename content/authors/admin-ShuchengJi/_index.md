@@ -6,7 +6,7 @@ title: Shucheng Ji
 superuser: true
 
 # Role/position
-role: Master student (since 2022.09)
+role: Phd student (since 2024.09)
 avatar_filename: avatar.jpg
 
 
@@ -25,11 +25,11 @@ Interests:
 
 
 
-education:
-  courses:
-    - course: BEng in Software Engineering
-      institution: Ludong University
-      year: 2021
+# education:
+#   courses:
+#     - course: BEng in Software Engineering
+#       institution: Ludong University
+#       year: 2021
 
 
 
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master students
+  - Phd students
 ---
-Ji Shucheng is currently working towards the Master of Science in Big Data and Internet of Things with the Faculty of Applied Sciences of the Macau Polytechnic University. His current research topic is image panoptic segmentation based on deep learning.
+<!-- Shucheng Ji is currently working towards the Master of Science in Big Data and Internet of Things with the Faculty of Applied Sciences of the Macau Polytechnic University. His current research topic is image panoptic segmentation based on deep learning. -->
