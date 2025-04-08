@@ -3,7 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiaochen Yuan's Research Group # Website name
+# title: Xiaochen Yuan's Research Group # Website name# 
+title: |
+  Hyperdimensional Perception and Frontier Security Intelligence Laboratory
+  高維感知與前沿防護智能實驗室
 baseURL: 'https://example.com/' # Website URL
 
 ############################
