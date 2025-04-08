@@ -15,10 +15,11 @@
         <a class="navbar-brand" href="{{ "/" | relLangURL }}">
           {{- if .Site.Params.logo -}}
           <img src="{{ printf "/img/%s" .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
+          <span style='padding-left: 10px;' >{{- site.Title -}}</span>
           {{- else -}}
           {{- .Site.Title -}}
           {{- end -}}
-          <span style='padding-left: 10px;' >{{- site.Title -}}</span>
+          
         </a>
       </div>
   
