@@ -49,6 +49,8 @@ sections:
           tag: Multimedia Forensics
         - name: Remote imaging
           tag: Remote imaging
+        - name: IntelliBreath
+          tag: IntelliBreath
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
