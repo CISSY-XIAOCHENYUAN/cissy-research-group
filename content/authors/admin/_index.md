@@ -9,7 +9,7 @@ superuser: true
 
 # Role/position
 role: Associate Professor
-
+avatar_filename: avatar.png
 
 # Organizations/Affiliations
 organizations:
