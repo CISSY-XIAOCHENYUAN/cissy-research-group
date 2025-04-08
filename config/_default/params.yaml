@@ -41,7 +41,6 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
 
