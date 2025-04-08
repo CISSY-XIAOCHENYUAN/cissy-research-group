@@ -45,10 +45,10 @@ sections:
           tag: Deep Learning
         - name: AI Security
           tag: AI Security
-        - name: Multimedia Forensics
-          tag: Multimedia Forensics
-        - name: Remote imaging
-          tag: Remote imaging
+        # - name: Multimedia Forensics
+        #   tag: Multimedia Forensics
+        # - name: Remote imaging
+        #   tag: Remote imaging
         - name: IntelliBreath
           tag: IntelliBreath
     design:
