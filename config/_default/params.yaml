@@ -35,15 +35,16 @@ header:
   navbar:
     enable: true
     align: r
+    logo:
+      text: "Hyperdimensional Perception and Frontier Security Intelligence Laboratory"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
     show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
-    logo:
-      text: "Hyperdimensional Perception and Frontier Security Intelligence Laboratory"
-      # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+
 
 # Site footer
 
