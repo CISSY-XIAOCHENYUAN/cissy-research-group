@@ -39,6 +39,7 @@ header:
       text: "Hyperdimensional Perception and Frontier Security Intelligence Laboratory"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
+    title: "Hyperdimensional Perception and Frontier Security Intelligence Laboratory"
     show_logo: true
     show_language: true
     show_day_night: true

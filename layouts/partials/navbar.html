@@ -18,8 +18,8 @@
           {{- else -}}
           {{- .Site.Title -}}
           {{- end -}}
+          <h1>{{ .Site.Title | safeHTML }}</h1>
         </a>
-        <h1>{{ .Site.Title | safeHTML }}</h1>
       </div>
   
       <!-- Collect the nav links, forms, and other content for toggling -->
