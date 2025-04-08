@@ -4,9 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # title: Xiaochen Yuan's Research Group # Website name# 
-title: |
-  Hyperdimensional Perception and Frontier Security Intelligence Laboratory
-  高維感知與前沿防護智能實驗室
+title: "Hyperdimensional Perception and Frontier Security Intelligence Laboratory\n高維感知與前沿防護智能實驗室"
 baseURL: 'https://example.com/' # Website URL
 
 ############################
